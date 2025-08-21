@@ -1,0 +1,2165 @@
+codigo,nombre_y_apellidos,carnet,tipo_inmueble,supconstruccion_m2,matvias,topografia,uso_de_edificacion,tipologia_const
+10101,equipamiento principal,,equipamiento,306,cemento,plano,,
+10102,iglesia union cristiana,,iglesia,279,pavimento,plano,,bueno
+10103,cerrado,,,,cemento,pendiente,,
+10104,agustin bustillos colque,,casa,145,cemento,pendiente,residencia,economico
+10106,sixto janco cañurata,12834245,casa,48,tierra,pendiente,residencia,economico
+10107,erasmo villca,,casa,103,tierra,pendiente,,
+10108,dionicio lyme vela,,casa,49,tierra,pendiente,residencia,economico
+10201,cerrado,,,,tierra,pendiente,residencia,
+10202,francisca montaño murcaya,5576198 pt,casa,120,tierra,pendiente,residencia,social
+10202,cerrado,,,,tierra,plano,,
+10203,cerrado,,,,tierra,plano,,
+10204,cerrado,,,,tierra,plano,,
+10205,maria mamani huarcaya,6616241 pt,casa,154,empedrado,pendiente,residencia,economico
+10206,teofilo indalecio,,casa,90,empedrado,semi plano,residencia,economico
+10207,flora oropeza chiri,6587336 pt.,casa,98,pavimento,pendiente,residencia,economico
+10208,patricio mamani alata,6658114,casa,57,empedrado,pendiente,residencia,economico
+10208,feliciano ustaya hinojosa,3707731 pt.,casa,102,empedrado,pendiente,residencia,economico
+10208,simon colque quillca,3707756 pt,casa,159,empedrado,semi plano,residencia,social
+10209,hredera catalina luna choque,,casa,82,empedrado,pendiente,residencia,economico
+10210,genario montaño,,casa,168,empedrado,pendiente,residencia,economico
+10211,paulino bustillos colque,8570347 pt,casa,127,empedrado,plano,residencia,social
+10212,victoria ramos nogales,8570347 pt.,casa,37,empedrado,plano,residencia,social
+10213,santiago gomez cardozo,6586715 pt,casa,198,tierra,plano,residencia,social
+10213,remijo carvajal,,casa,322,,pendiente,residencia,social
+10215,modesto berrios galvan,7338715 or.,casa,204,,semi plano,residencia,economico
+10216,vicenta bohorquez montaño,,casa,37,tierra,plano,residencia,social
+10217,gobierno autonomo municipal de samaipata,,iglesia,594,,,,
+10218,roberto mollo garcia,6592101 pt,casa,129,tierra,semi plano,residencia,social
+10240,cerrado,,,,,,,
+10241,cerrado,,,,,,,
+10301,domingo,,casa,160,pavimento,semi plano,residencia,economico
+10302,mario vargas campos,,casa,43,tierra,pendiente,residencia,economico
+10303,pablo vargas campos,8586277 pt,casa,45,tierra,pendiente,residencia,economico
+10304,atanacio vargas villca,,casa,104,tierra,pendiente,residencia,economico
+10305,policarpio leon,,casa,26,,,residencia,social
+10306,simon jatti,,casa,,pavimento,pendiente,residencia,social
+10307,francisco galvan ramirez,,casa,45,pavimento,pendiente,residencia,social
+10308,florencio galvan laime,,casa,45,pavimento,pendiente,residencia,social
+10309,german galvan laime,5128940 pt,casa,45,,pendiente,residencia,economico
+10309,victor ramos ckoso,3712690 pt,casa,109,pavimento,pendiente,residencia,economico
+10310,eluterio mamani seballos,682964 ch,casa,79,pavimento,plano,residencia,economico
+10310,cerrado,,,,pavimento,plano,,
+10311,sabino bohorquez,,casa,,,plano,residencia,social
+10312,victoria berrios olmos,,casa,,empedrado,pendiente,residencia,social
+10313,amalia borquez,,casa,,empedrado,plano,residencia,social
+10314,marcelo alaca,,casa,,empedrado,plano,,economico
+10315,ponsiano santos,,casa,244,empedrado,pendiente,residencia,economico
+10316,cerrado,,casa,,empedrado,semi plano,residencia,
+10317,geranimo jurado,,casa,,empedrado,pendiente,residencia,social
+10318,cerrado,,,,empedrado,semi plano,,
+10318,cerrado,,,,empedrado,semi plano,,
+10320,eloy layme paca,5550716 pt,casa,,empedrado,pendiente,residencia,social
+10321,cerrado,,,,empedrado,pendiente,,
+10322,cerrado,5128940 pt.,,,empedrado,pendiente,residencia,
+10323,victor leon serrudo,536747 pt,casa,,empedrado,muy pendiente,residencia,
+10324,cerrado,,,,,,,economico
+10325,eleuterio colque,,casa,,empedrado,pendiente,residencia,economico
+10326,martin cachamani,,casa,,cemento,semi plano,residencia,social
+10327,ramiro balcera suyo,6616079,casa,95,cemento,semi plano,residencia,economico
+10328,sabino marcani mamani,1407534 pt,casa,95,cemento,semi plano,residencia,economico
+10401,luis diaz gallegos,10575955 pt,casa,61,cemento,semi plano,residencia,economico
+10402,rosa martha condori,4119350 ch,casa,152,cemento,pendiente,residencia,economico
+10402,pascual layme gordillo,5576388 pt,casa,70,cemento,,residencia,economico
+10402,benedicta huanacu,,casa,30,cemento,semi plano,residencia,economico
+10402,cerrado,,,,,,,
+10402,luciano copa colque,,casa,,cemento,pendiente,residencia,economico
+10404,jose antequera,,casa,,cemento,semi plano,residencia,economico
+10404,gerardo mamani savedra,6613884 pt.,casa,,cemento,pendiente,residencia,economico
+10404,juan carlos flores sanchez,6612000 pt.,casa,,cemento,pendiente,residencia,social
+10404,cerrado,,casa,,cemento,pendiente,,
+10404,andrea mondocori paco,,casa,,cemento,semi plano,residencia,economico
+10405,gregorio lozano canaviri,1388546 pt.,casa,,cemento,semi plano,residencia,social
+10405,gobierno autonomo municipal de samaipata,,casa,14,cemento,plano,,economico
+10406,severo torrez colque,4118625 ch.,casa,,cemento,plano,residencia,bueno
+10406,gobierno municipal de samaipata,,equipamiento,344,cemento,semi plano,,bueno
+10407,cerrado,,casa,,tierra,semi plano,residencia,economico
+10408,bonifacia nina,6608680 pt.,casa,,tierra,pendiente,residencia,economico
+10409,martin huarcaya ckosso,1419446 pt.,casa,,tierra,semi plano,residencia,economico
+10410,miriam basagoytia urquieta.,682964 or.,casa,130,,pendiente,residencia,economico
+10411,juan suyo tito,5578613 pt.,casa,226,tierra,pendiente,residencia,economico
+10412,julia urquieta borquez,1419307 pt.,casa,,cemento,pendiente,residencia,economico
+10413,saturnina condori copa,5517520 pt.,casa,189,tierra,semi plano,residencia,economico
+10414,teresa condori copa,6583626 pt.,casa,74,tierra,plano,residencia,economico
+10415,victor ramos croso,3712690,casa,168,tierra,pendiente,residencia,economico
+10416,clemencia soyo condori,3502465,casa,,tierra,pendiente,residencia,economico
+10417,dominga colque mamani,,casa,,tierra,semi plano,residencia,economico
+10418,segundina bustillos chirari,1419823 pt.,casa,,tierra,plano,residencia,economico
+10418,juan montaño,,casa,,tierra,pendiente,residencia,economico
+10419,juan mamani canchari,5646020 ch.,casa,85,tierra,pendiente,residencia,economico
+10421,domingo poveda chumacero,3668071 pt.,casa,68,pavimento,semi plano,residencia,
+10421,agustin villalta,5576400 pt.,casa,89,tierra,plano,residencia,economico
+10421,vicenta coso,8558622 pt.,casa,83,tierra,plano,residencia,economico
+10422,candido lezano canaviri,6698553 pt.,casa,93,tierra,pendiente,residencia,economico
+10501,gobierno municipal de samaipata,,equipamiento,344,cemento,semi plano,,bueno
+10502,cerrado,1419471 pt.,casa,,tierra,pendiente,,
+10503,felipe perez,,casa,,tierra,,residencia,economico
+10504,cerrado,,casa,128,tierra,pendiente,,
+10504,julian mamani suyo,5128991 pt.,casa,160,tierra,plano,residencia,economico
+10504,cerrado,,casa,,tierra,,,
+10505,felipe yapura mamani,8573503 pt.,casa,125,tierra,muy pendiente,residencia,economico
+10507,cerrado,,casa,,tierra,,,
+10507,florencia suyo alanes,6616296 pt.,casa,99,tierra,plano,,
+10508,cerrado,,casa,,tierra,,residencia,
+10509,saturnino adrian vera,597950 or.,casa,95,tierra,pendiente,residencia,economico
+10510,fernando pocomani adrian,682952 or.,casa,87,tierra,pendiente,residencia,economico
+10511,emiliana saavedra,3697001 pt.,casa,134,tierra,semi plano,residencia,economico
+10512,sabino colque raya,5578875 pt.,casa,372,cemento,pendiente,residencia,economico
+10512,zenon huallpa mamaní,5093111 pt.,casa,175,cemento,pendiente,residencia,economico
+10513,cerrado,,,,cemento,,,
+10514,eva montes andrade,6657257 pt.,casa,122,cemento,muy pendiente,comercio,economico
+10515,cerrado,,lote,,cemento,muy pendiente,,
+10516,rosendo lezano,5128495,lote,214,cemento,muy pendiente,,
+10517,jacinta caballero,6658120 pt.,casa,97,cemento,muy pendiente,residencia,social
+10518,cipriana urquieta bohorquez,1419303 pt.,casa,109,cemento,muy pendiente,comercio,social
+10519,eleuteria mamaní zeballos,682969 or.,casa,111,cemento,muy pendiente,residencia,social
+10520,eleuteria mamaní zeballos,682969 or.,casa,111,cemento,pendiente,residencia,social
+10521,eustaquio mamani zeballos,8577229 pt.,casa,125,cemento,plano,residencia,economico
+10522,simona jurado,1419578 pt.,casa,342,cemento,muy pendiente,residencia,social
+10523,teodora aguilar chucamani,8586245 pt.,casa,284,cemento,pendiente,residencia,social
+10523,cerrado,,casa,,,,,
+10524,cerrado,,,,,,,
+10524,santiago ckoso cruz,5576021 pt.,casa,229,cemento,pendiente,residencia,social
+10525,genuario suyo bautista,6655591 pt.,casa,96,cemento,pendiente,residencia,social
+10526,rosa martha condori mamaní,4119350 ch.,casa,274,cemento,pendiente,residencia,social
+10527,cerrado,,casa,,,,,
+10528,cerrado,,casa,,,,,
+10529,daniel portillo vargas,1210415 pt.,casa,29,cemento,semi plano,residencia,social
+10530,daniel portillo vargas,1210415 pt.,casa,70,cemento,semi plano,residencia,social
+10531,daniel portillo vargas,1210415 pt.,casa,199,cemento,semi plano,residencia,social
+10532,cerrado,,,,,,,
+10533,rihovana juchatuma cruz,5508386 pt.,casa,65,cemento,pendiente,residencia,social
+10540,luis alberto muñoz colque,8788551 pt.,casa,41,cemento,pendiente,residencia,economico
+10601,felix ramos laime,,casa,53,cemento,pendiente,residencia,economico
+10603,domitila palma garcia,5576074 pt.,casa,90,cemento,pendiente,residencia,social
+10603,felix flores viza,5651856 ch.,casa,107,cemento,plano,residencia,social
+10604,florencia choque pajaré de mamani,3697002 pt.,casa,26,cemento,plano,comercio,social
+10605,hilaria mondocari paco,,casa,100,cemento,plano,residencia,economico
+10606,comite civico de samaipata,,equipamiento,126,cemento,plano,,economico
+10606,cerrado,,casa,93,cemento,pendiente,,
+10607,basilio zenteno villca,4098545 pt.,casa,72,tierra,pendiente,residencia,social
+10607,cerrado,,casa,,tierra,pendiente,,
+10608,cerrado,,casa,,tierra,pendiente,,
+10609,segundino mamani villca,1076777 ch.,casa,67,tierra,pendiente,residencia,social
+10610,lucia isabel coaquira carachujo de mamani,6658153 pt.,casa,107,tierra,pendiente,residencia,social
+10610,hilaria ckuno barrero,105518203,casa,277,tierra,pendiente,residencia,social
+10611,eustaquio mamani zeballos,8577229 pt.,casa,128,tierra,pendiente,residencia,economico
+10611,justina saigua,,casa,24,tierra,pendiente,residencia,
+10611,maria maldonado montaño de caballero,13102684 pt.,casa,27,tierra,pendiente,residencia,economico
+10611,luis colque tito,5488369 ch.,casa,63,tierra,pendiente,residencia,economico
+10612,matias sanchez gardillo,6616106 pt.,casa,152,tierra,pendiente,residencia,social
+10613,raul mamani jhathi,,casa,35,cemento,semi plano,comercio,social
+10613,victor laime navarro,1419575 pt.,casa,37,empedrado,semi plano,residencia,economico
+10614,andrea colque mondocorre,6655448 pt.,casa,67,cemento,pendiente,residencia,social
+10615,casiano ckoso inca,1419292 pt.,casa,196,cemento,pendiente,residencia,economico
+10615,ignacio alata jatti,8586696 pt.,casa,29,cemento,pendiente,residencia,social
+10616,benito inca,556767 pt.,casa,19,cemento,pendiente,residencia,economico
+10616,cerrado,,,,,,,
+10617,gregorio calani colque,5517448 pt.,casa,259,cemento,pendiente,comercio,economico
+10618,pastor villca canaviri,5517504 pt.,casa,58,cemento,pendiente,residencia,economico
+10619,rosa hinojosa inca,,casa,56,cemento,pendiente,residencia,economico
+10619,felix saavedra perapi,8576021 pt.,casa,,cemento,pendiente,residencia,social
+10619,cerrado,,,,,,,
+10619,dorotea soliz,1077309 ch.,casa,92,cemento,semi plano,residencia,social
+10619,cerrado,,,,,,,
+10620,cerrado,,,,,,,
+10621,cerrado,,,,,,,
+10622,cerrado,,,,,,,
+10622,mario gomez,,casa,114,cemento,semi plano,residencia,social
+10623,pedro mamaní marcani,5525352 pt.,casa,155,cemento,semi plano,comercio,economico
+10625,pastor leon serrudo,1229185 pt.,casa,146,empedrado,plano,residencia,social
+10626,cerrado,,,,,,,
+10626,cerrado,,,,,,,
+10701,cerrado,,,,,,,
+10702,cerrado,,,,,,,
+10703,felipe nicasio mendoza,687139 pt.,casa,84,cemento,pendiente,residencia,economico
+10704,albertina lupe taquichiri,1043951 ch.,casa,177,cemento,pendiente,residencia,social
+10704,isabel elsa león serrudo,,casa,165,cemento,semi plano,comercio,economico
+10705,cerrado,,,,,,,
+10705,julia janco lopez,1419756 pt.,casa,89,cemento,pendiente,residencia,social
+10705,segundino janco,,casa,91,cemento,pendiente,residencia,social
+10706,pastor mamani manrique,6616018 pt.,casa,91,cemento,pendiente,residencia,social
+10707,edgar mamaní manrique,5517524 pt.,casa,40,cemento,plano,residencia,social
+10708,simona mamani catunta,,casa,83,cemento,pendiente,residencia,social
+10709,cerrado,,,,,,,
+10710,cerrado,,,,,,,marginal
+10710,vicente alata pacheco,5578877 pt.,casa,70,cemento,pendiente,residencia,social
+10711,marcos mamaní alata,,casa,62,cemento,semi plano,residencia,social
+10711,valeriana koso,,casa,101,cemento,semi plano,residencia,social
+10712,valentina olmos seballos,5128919 pt.,casa,237,tierra,semi plano,residencia,economico
+10713,aurelio olmos ceballos,,casa,87,tierra,semi plano,residencia,social
+10714,juan carlos olmos yucra,4097238 ch.,casa,161,tierra,semi plano,residencia,social
+10715,sandra severina frias olmos,5128814 pt.,casa,87,cemento,plano,residencia,social
+10716,felicia moroko,5578892,casa,91,cemento,semi plano,residencia,
+10717,cerrado,,casa,,cemento,pendiente,,
+10717,ubaldina condori vasquez,3108237 or..,casa,173,cemento,pendiente,residencia,social
+10718,victor alaca,5576415 pt.,casa,49,cemento,semi plano,residencia,social
+10719,domingo mamani lozano,1419559 pt.,casa,81,cemento,semi plano,residencia,economico
+10719,remigio cohaquira zuñiga,9111970 lp.,casa,135,cemento,pendiente,residencia,social
+10719,cerrado,,casa,,cemento,semi plano,,
+10720,martin jurado villca,5576010 pt.,casa,,cemento,plano,residencia,social
+10720,francisca sagrada fernandez,5105668 pt.,casa,47,cemento,plano,residencia,economico
+10720,martin jurado villca,5576010 pt.,casa,126,cemento,pendiente,,social
+10721,cerrado,,,,cemento,pendiente,,
+10722,cerrado,,,,cemento,semi plano,residencia,
+10722,carmen aiza torrez de colque,12961673 ch,casa,70,cemento,pendiente,residencia,economico
+10723,cerrado,,casa,,cemento,,,
+10724,otimar araujo ramires,3994153 pt.,casa,347,cemento,pendiente,residencia,social
+10724,cerrado,,casa,,cemento,,residencia,
+10740,juan calos ancharos,5666011 ch.,casa,168,cemento,semi plano,residencia,
+10801,gobierno autonomo municipal de samaipata,6616318 pt.,equipamiento,113,tierra,plano,,social
+10801,cerrado,,,,tierra,pendiente,,economico
+10801,gobierno autonomo municipal de samaipata,10423600 ch,equipamiento,71,tierra,pendiente,residencia,social
+10802,isidoro rocha gerrero,3626864 ch,casa,51,tierra,semi plano,residencia,economico
+10802,marcelina gonzales villacorta,,casa,328,tierra,plano,residencia,social
+10803,cerrado,5093111 pt.,,,tierra,pendiente,,
+10803,agustina layme llanos,,casa,44,tierra,,residencia,social
+10804,cerrado,,casa,,tierra,,,
+10804,roman lopez flores,2424653 lp,casa,115,tierra,pendiente,,economico
+10805,cerrado,,casa,,cemento,semi plano,,
+10805,carlota coca veliz,10423600 ch.,casa,213,cemento,plano,residencia,economico
+10805,zenon diaz,,casa,111,cemento,pendiente,residencia,economico
+10805,gobierno autonomo municipal de samaipata,,equipamiento,,cemento,pendiente,,
+10806,carmelo alvarez moreno,5578543 pt,casa,94,cemento,pendiente,residencia,economico
+10806,fredy patsi alvares,6583547 pt,casa,71,cemento,pendiente,residencia,economico
+10806,juan carlos alvarez,3117112 or.,casa,167,cemento,pendiente,residencia,economico
+10807,cerrado,,casa,,cemento,pendiente,,
+10807,cerrado,,casa,,cemento,pendiente,,
+10807,cerrado,,,,tierra,pendiente,residencia,
+10808,clemente bohorquez urquieta,1229129 pt.,lote,94,cemento,semi plano,,
+10808,cecilia espada flores,1075351 ch.,casa,87,cemento,semi plano,residencia,economico
+10808,cerrado,,,,cemento,semi plano,,
+10809,maria suarez lora,5682755 ch.,casa,226,cemento,semi plano,residencia,economico
+10809,clemente bohorquez urquieta,1229129 pt.,casa,83,cemento,,,economico
+10809,francisca cuellal laura,4099074 pt.,casa,60,empedrado,semi plano,residencia,economico
+10809,juana quispe parava,8640543 pt.,casa,257,empedrado,semi plano,residencia,social
+10809,cerrado,,casa,,empedrado,plano,,
+10809,cerrado,,casa,,empedrado,semi plano,comercio,
+10809,carlos espada suarez,1335194 pt.,casa,447,empedrado,pendiente,residencia,social
+10810,vidal mamani puma,10518188 or.,casa,,empedrado,pendiente,residencia,
+10810,sirilo santos warayo,,casa,35,empedrado,plano,residencia,economico
+10810,cerrado,,casa,,empedrado,,,marginal
+10901,luisa juanco lopez,1419756 pt.,casa,215,tierra,semi plano,residencia,social
+10902,rotes barrios,4097238 ch.,casa,175,tierra,semi plano,residencia,social
+10902,cerrado,,,,empedrado,semi plano,,
+10903,casiano puma parada,2648564 pt.,casa,174,empedrado,semi plano,residencia,economico
+10903,esteban pum calani,,casa,20,empedrado,semi plano,residencia,social
+10903,emiliano santos bernade,5576149 pt.,casa,33,empedrado,semi plano,comercio,social
+10904,marcos mamani,5517499 pt.,casa,397,empedrado,semi plano,residencia,social
+10904,maruja belar,,casa,160,empedrado,semi plano,residencia,social
+10904,antonio colque,,casa,81,empedrado,semi plano,residencia,social
+10904,florentin fernandez,,casa,91,empedrado,semi plano,residencia,social
+10904,carmen romero lazcano,7301035 pt,casa,239,empedrado,plano,residencia,social
+10905,nancy espada juarez,1075350 ch.,casa,44,empedrado,semi plano,residencia,economico
+10905,luisa garcia romero,55171139 pt.,casa,141,empedrado,semi plano,residencia,economico
+10905,luisa garcia romero de rodriguez,5517439 pt.,casa,,empedrado,semi plano,residencia,social
+10906,liberto luna,,casa,124,empedrado,pendiente,residencia,economico
+10906,andres suyo condori,5576176 pt,casa,149,empedrado,,residencia,social
+10907,cerrado,,casa,,empedrado,,,
+10907,tomas lopez,,casa,105,empedrado,semi plano,residencia,economico
+10908,paulina parada ramos,10518302 pt.,casa,,empedrado,,,economico
+10908,cerrado,,casa,,empedrado,plano,,
+10909,cerrado,,casa,,empedrado,,,
+10910,alberto andrade antequera,3660667 pt.,casa,151,cemento,semi plano,residencia,economico
+10911,victor coca condori,5578753 pt.,casa,135,empedrado,plano,residencia,social
+10912,inocencia tito,1407507 pt.,casa,135,empedrado,pendiente,residencia,economico
+10913,bernabe salinas arcienega,1246497 pt,casa,149,empedrado,pendiente,residencia,economico
+10914,benito fernandez colque,,casa,149,empedrado,plano,residencia,economico
+10915,dionicto alberto antequera,,casa,135,empedrado,semi plano,residencia,social
+10915,felix colque chintari,3707754 pt.,casa,129,empedrado,plano,residencia,economico
+10916,gregorio juan canaviri,,casa,136,empedrado,semi plano,residencia,economico
+10917,modesto calani espada,5578655 pt.,casa,274,empedrado,pendiente,residencia,economico
+10918,gregorio graviel mamani,44112055 ch,casa,98,tierra,plano,residencia,economico
+10919,sebastian loredo mamani,10518013 pt.,casa,89,tierra,plano,residencia,economico
+10920,esenaro gabriel mamani,4112055 ch.,casa,68,tierra,plano,residencia,economico
+10921,atanacia ramos zeballos vda. de alandia,682974 or.,casa,169,tierra,plano,residencia,social
+10921,santiago rojas paco,6613766 pt.,casa,39,empedrado,plano,residencia,social
+10921,martin colque diomicio,5578834 pt.,casa,141,tierra,pendiente,residencia,social
+10921,tomasa apaza mamani vda de lopez,5578902 pt.,casa,384,tierra,semi plano,residencia,economico
+10921,severina soliz lozano de mamani,8586355 ch.,casa,28,cemento,plano,residencia,social
+10921,juanito santos bernabe,12405931 pt,casa,25,cemento,plano,residencia,social
+10921,gobierno autonomo municipal de samaipata equipamiento daniel salamanca,,equipamiento,3600,cemento,plano,residencia,bueno
+10921,templo evangelico,,casa,,cemento,,residencia,marginal
+10921,gobierno autonomo municipal de samaipata,,equipamiento,4086,cemento,plano,,economico
+10922,wilber cumo,6655335 pt.,casa,95,cemento,semi plano,comercio,social
+10923,gobierno autonomo municipal de samaipata,,casa,417,cemento,semi plano,residencia,economico
+10940,jaime negrete,,casa,179,cemento,semi plano,residencia,social
+11001,demesta romero choque,687163 or.,casa,230,tierra,plano,residencia,social
+11001,felipa laime,5643624 pt.,casa,166,empedrado,semi plano,,social
+11001,angela suyo morales,,casa,24,cemento,plano,residencia,social
+11001,jose layme mamani,1430902 pt.,casa,196,cemento,plano,residencia,economico
+11001,teofilo santos choque,,casa,24,cemento,plano,residencia,social
+11002,clemente bohorquez urquieta,1229129 pt.,casa,180,cemento,pendiente,residencia,economico
+11002,silvio puma sacaca,5001-15015ja pt.,casa,18,cemento,plano,residencia,economico
+11003,isandra venegas flores,133599 pt.,casa,99,cemento,plano,residencia,social
+11004,cerrado,,,103,cemento,semi plano,,
+11005,cristina santos cantuta,5517474 pt.,casa,74,cemento,pendiente,residencia,economico
+11006,martin huarcaya lunasco,6683296 pt,casa,77,cemento,pendiente,residencia,economico
+11007,cerrado,,casa,,cemento,pendiente,,
+11008,cerrado,,casa,,cemento,plano,,
+11010,eduardo santos auka,8597911 pt.,casa,133,cemento,pendiente,residencia,economico
+11011,cerrado,,casa,,tierra,,residencia,
+11012,sabina montes andrade,6583678 pt.,casa,185,cemento,semi plano,residencia,economico
+11013,luciano lezamo soliz,5576483 pt.,casa,73,cemento,pendiente,residencia,economico
+11101,isidro rocha guerrero,3626864 ch.,casa,47,cemento,pendiente,residencia,social
+11102,mario villca mamani,3707528 pt.,casa,88,cemento,pendiente,residencia,economico
+11103,wilber urquieta borquez,,casa,223,cemento,pendiente,residencia,social
+11103,gobierno autonomo municipal de samaipata,,casa,184,cemento,semi plano,,bueno
+11104,maria mamani zaya,5578747 pt,casa,,cemento,pendiente,residencia,economico
+11104,aquilino marocko alavi,1073788 ch,casa,99,cemento,plano,residencia,economico
+11104,fidel morocko ramos,5490651 pt.,casa,45,cemento,plano,residencia,economico
+11105,cerrado,,casa,,cemento,pendiente,,
+11106,cerrado,,casa,,cemento,pendiente,,
+11107,gobierno autonomo municipal de samaipata,,equipamiento,1345,cemento,plano,residencia,bueno
+11108,gobierno autonomo municipal de samaipata,,equipamiento,342,cemento,plano,,economico
+11109,cerrado,,casa,,tierra,plano,,
+11110,cerrado,,casa,,tierra,semi plano,,
+11110,teofilo torrez colque,6683280 pt,casa,126,tierra,plano,residencia,social
+11201,gobierno autonomo municipal de samaipata,8340212 lpz,equipamiento,178,empedrado,plano,residencia,bueno
+11202,cerrado,,,,,,,
+11202,juan espada,682864 or.,casa,146,cemento,plano,comercio,social
+11203,simon balcazar marcani,6655388 pt.,casa,193,cemento,plano,residencia,economico
+11203,cerrado,,,,,,,
+11203,hilarion puma mamani,5517523 pt,casa,64,cemento,plano,residencia,economico
+11203,ezequiel torrez flores,,casa,921,cemento,plano,residencia,social
+11203,justina saigua,5676385 pt,casa,,cemento,plano,residencia,social
+11203,eleutario chungara vera,3707884 pt.,casa,,cemento,plano,residencia,social
+11203,basilia copa legua,6657816 pt.,casa,,cemento,semi plano,residencia,social
+11203,marcelina puente,1151173 pt.,casa,193,cemento,semi plano,residencia,social
+11203,primo parada diaz,4092921 ch.,casa,128,cemento,semi plano,residencia,social
+11203,paulino utrillas condori,5517480 pt,casa,188,cemento,semi plano,residencia,social
+11204,demecia romero,687163 or.,casa,157,tierra,plano,residencia,social
+11205,gobierno autonomo municipal de samaipata,,sedez,154,cemento,plano,residencia,social
+11206,irene galvan colque,7285127 pt,casa,354,pavimento,plano,residencia,social
+11206,eduardo franklin andrade gordillo,3638103 ch,casa,326,pavimento,pendiente,residencia,economico
+11207,esther andrade callazos- maria luisa andrade callazos,1108069,casa,326,pavimento,semi plano,residencia,economico
+11207,cerrado,,casa,,cemento,semi plano,,
+11208,andrea colque ramos de sanchez,8597494 pt.,casa,91,cemento,plano,comercio,economico
+11208,maria soraide balcazar,8649860 pt,casa,228,cemento,semi plano,residencia,economico
+11209,cerrado,,,,tierra,semi plano,,
+11209,vicente layme quispe,,casa,312,tierra,plano,residencia,economico
+11210,cerrado,53548 or.,casa,,tierra,semi plano,residencia,
+11211,cerrado,,,,tierra,semi plano,,
+11211,vicente layme quispe,1074419 ch,casa,105,tierra,semi plano,residencia,economico
+11301,severino ramos,6613781 pt,casa,123,empedrado,pendiente,residencia,economico
+11302,cerrado,,,,empedrado,semi plano,,
+11303,guadalupe perez,5570029 pt,casa,101,cemento,pendiente,residencia,economico
+11304,abandonado,,,,,,,
+11305,marcelo saavedra lopez,5128866 pt.,casa,54,cemento,pendiente,residencia,economico
+11306,austina laime,,casa,73,cemento,plano,residencia,economico
+11307,gregorio pacheco,4104032 ch,casa,156,cemento,semi plano,residencia,economico
+11308,severino inca,,casa,108,tierra,semi plano,residencia,economico
+11309,paulina colque catunta,5578787 pt,casa,123,tierra,semi plano,residencia,economico
+11310,cerrado,,,,,,,
+11311,benito diaz huaraya,6655505 pt,casa,50,,semi plano,residencia,economico
+11312,patricia diaz montado,3994160 pt,casa,197,tierra,pendiente,residencia,economico
+11313,clemente saavedra perapi,6616124 pt,casa,75,tierra,semi plano,residencia,economico
+11314,nasario aiza mamani,5576407 pt,casa,54,tierra,semi plano,residencia,economico
+11315,cerrado,,,,,,,
+11316,cerrado,,,,cemento,,,
+11317,cerrado,,,,cemento,plano,,
+11401,miguel mamani miranda,6683313 pt,casa,292,tierra,pendiente,residencia,social
+11402,cesar nina pacheco,6655730 pt,casa,62,tierra,semi plano,residencia,economico
+11403,josefina ramos,,casa,41,cemento,semi plano,residencia,economico
+11404,elena tita de uchahuano,8586416 pt,casa,88,tierra,semi plano,residencia,economico
+11405,isac diaz pelaez,,casa,49,tierra,semi plano,residencia,economico
+11406,faustino chirari villacorta,1246442 pt,casa,138,tierra,plano,residencia,economico
+11407,cerrado,,casa,,tierra,,,
+11408,severino castro pelaez,5578987 pt,casa,91,tierra,plano,residencia,social
+11409,teodora castro pelaez de puma,10518379 pt,casa,27,tierra,semi plano,residencia,economico
+11410,faustino chirari villaccorta,1246442 pt,lote,64,tierra,semi plano,residencia,
+11411,cerrado,,,,tierra,,,
+11412,fautino chirari villacorta,1246442 pt,casa,64,pavimento,plano,residencia,bueno
+11413,delia rivas,687119 pt,casa,68,pavimento,plano,residencia,economico
+11502,gregorio ramos sandi,,casa,174,pavimento,plano,residencia,social
+11503,cerrado,,casa,,pavimento,,,
+11504,cerrado,,casa,,pavimento,,,
+11505,cerrado,,casa,,pavimento,plano,,
+11506,vilma villacorta,1419657 pt,casa,86,pavimento,plano,residencia,social
+11507,cerrado,,casa,,pavimento,plano,,
+11508,carlos layme mamani,8586183,casa,88,pavimento,plano,residencia,economico
+11509,eva luz morales,7509947 ch,casa,86,tierra,pendiente,residencia,bueno
+11510,hospital san salvador samaipata,,casa,2616,tierra,pendiente,,bueno
+11511,cerrado,4099646 ch.,,,tierra,pendiente,,
+11512,gobierno autonomo municipal de samaipata,,casa,34,tierra,plano,residencia,social
+11513,gobierno autonomo municipal de samaipata,,lote,123,tierra,semi plano,,
+11514,maximo cruz diaz,1407513 pt,casa,124,tierra,plano,residencia,economico
+11515,cerrado,,casa,,cemento,pendiente,,
+11516,jacinto cruz chirari,,casa,24,cemento,plano,residencia,economico
+11517,cerrado,,casa,,cemento,semi plano,,
+11519,cerrado,,casa,,cemento,semi plano,,
+11520,cerrado,,casa,,cemento,semi plano,,
+11521,barbara calani silvia,5576235 pt,casa,89,cemento,semi plano,comercio,economico
+11522,cerrado,,casa,,cemento,semi plano,,
+11523,dorotea puma montaño,,casa,139,pavimento,plano,residencia,economico
+11524,marcelina parada saavedra,3654552 pt,casa,83,pavimento,plano,residencia,economico
+11524,agustina ckoco alave,4098507 ch,casa,61,pavimento,pendiente,residencia,economico
+11524,beatriz ayma siñanis,5636636 ch,casa,92,tierra,plano,residencia,social
+11525,gobierno autonomo municipal de samaipata,,equipamiento,,tierra,semi plano,,
+11526,cerrado,,casa,,tierra,semi plano,,
+11526,sandro mariscal canchaca,8601343 pt,casa,448,tierra,semi plano,residencia,social
+11526,eduardo layme carmana,5578717 pt,casa,53,pavimento,pendiente,residencia,economico
+11526,emiliana layme,,casa,129,pavimento,plano,residencia,economico
+11526,cerrado,,casa,,pavimento,plano,,
+11540,saturnina layme paca de hinojoso,5517483 pt,casa,228,pavimento,plano,residencia,economico
+11601,cerrado,,equipamiento,30,losetado,pendiente,,economico
+11701,juliana layme carmona,8586259 pt,casa,92,pavimento,semi plano,residencia,economico
+11702,cerrado,,,,pavimento,semi plano,,
+11703,cerrado,,,,pavimento,semi plano,,
+11704,martina inca de juanco,8586563 pt,casa,54,pavimento,semi plano,residencia,economico
+11706,benito santos anca,,casa,222,pavimento,semi plano,residencia,economico
+11707,siprian mamani,5576557 pt,casa,54,pavimento,plano,residencia,social
+11708,cerrado,,,,pavimento,plano,,
+11709,cerrado,,,,pavimento,plano,,
+11711,cerrado,,casa,,pavimento,plano,,
+11712,cerrado,,casa,,pavimento,plano,,
+11712,simon balcazar marcani,6655388 pt,casa,133,cemento,semi plano,residencia,economico
+11714,simon balcazar marcani,6655388 pt,casa,28,pavimento,plano,residencia,social
+11714,simon balcazar marcani,6655388 pt,casa,17,tierra,semi plano,residencia,economico
+11715,anacleto castro,5578916 pt,casa,67,tierra,semi plano,residencia,economico
+11716,cerrado,,casa,,tierra,semi plano,,
+11717,cerrado,,casa,,tierra,pendiente,,
+11718,cerrado,,casa,,tierra,pendiente,,
+11719,cerrado,,casa,110,tierra,semi plano,,
+11719,lorenza layme,,casa,169,tierra,pendiente,residencia,economico
+11719,cerrado,,casa,,tierra,pendiente,,
+11720,cerrado,,casa,,,,,
+11720,agustin mamaní saavedra,6613789 ch.,casa,152,tierra,pendiente,residencia,economico
+11720,faustino mamaní zenteno,6655392 pt.,casa,105,tierra,pendiente,residencia,economico
+11720,cerrado,,casa,,tierra,pendiente,,
+11720,cerrado,,casa,,tierra,pendiente,,
+11720,carmen romero lazcano,1058752 ch.,lote,99,tierra,pendiente,residencia,
+11720,felimon chiri cruz y sra.,5578667 pt.,casa,235,tierra,pendiente,residencia,economico
+11721,jose caballero lopez,1419771 pt.,casa,129,cemento,pendiente,residencia,economico
+11721,carmelo mamani lezano,5578668 pt.,casa,78,cemento,semi plano,residencia,economico
+11721,tomas llanque rios,5578504 pt.,casa,200,cemento,semi plano,residencia,economico
+11722,cerrado,,casa,,cemento,pendiente,,
+11723,vicente chiri (finado),,casa,161,cemento,pendiente,residencia,economico
+11724,barbara flores galvan,5128913 pt.,casa,64,cemento,semi plano,residencia,social
+11725,hermogenes gimenez,,casa,245,cemento,semi plano,residencia,economico
+11726,luis muñoz poveda y sra.,1419685 pt.,casa,86,cemento,pendiente,residencia,economico
+11726,mario suarez luna,4092112 ch.,casa,128,cemento,pendiente,residencia,social
+11728,cecilia suarez flores,10500069 pt.,casa,177,cemento,,comercio,economico
+11728,cerrado,,casa,,cemento,,,
+11729,marcos yapura padilla,8586555 pt.,casa,172,cemento,pendiente,residencia,social
+11730,victor mamaní saavedra,1419309 pt.,casa,50,tierra,pendiente,residencia,social
+11730,agustin mamaní saavedra,66133789 pt.,casa,321,tierra,pendiente,residencia,economico
+11731,simon choque cruz,5188776 pt.,casa,170,tierra,pendiente,residencia,social
+11731,cerrado,,casa,,cemento,plano,,
+11731,eusebia berrios coca de lira,6655432 pt.,casa,208,cemento,pendiente,comercio,social
+11731,ernesto mundocorre colque,5578962 pt.,casa,97,cemento,pendiente,residencia,economico
+11732,hilaria condori mamani de marcani,1419810 pt.,casa,155,cemento,pendiente,residencia,social
+11732,leandro marcani ambar,5576048 pt.,casa,147,cemento,pendiente,residencia,economico
+11732,felix torrez pacheco,1229196 pt.,casa,1064,cemento,pendiente,residencia,social
+11732,crispin marcani condori,1419691 pt.,casa,172,cemento,semi plano,residencia,economico
+11732,casimiro ramos sandi y sra.,1263519 pt.,casa,1025,cemento,pendiente,residencia,economico
+11732,fabian lezano,,casa,501,cemento,pendiente,residencia,social
+11732,cerrado,,casa,410,tierra,pendiente,residencia,economico
+11732,cerrado,,lote,224,tierra,pendiente,,
+11732,cerrado,,lote,345,tierra,pendiente,,
+11732,bernabe salinas arcienega,1246497 pt.,lote,345,tierra,plano,,
+11732,edmundo ckoso,,casa,83,tierra,plano,residencia,social
+11733,patricia colque lezano,4108193 ch.,casa,58,cemento,pendiente,residencia,social
+11733,zenon mamaní gordillo,8586187 pt.,casa,548,cemento,plano,residencia,economico
+11733,alicia cayo d avendaño,,casa,114,cemento,pendiente,comercio,economico
+11733,sebastian negrete romero,,casa,173,cemento,pendiente,residencia,economico
+11733,cerrado,,casa,,cemento,plano,,
+11735,eloy layme,,casa,47,cemento,plano,residencia,economico
+11735,enrique bohoquez montaño,1189225 pt.,casa,57,cemento,plano,comercio,economico
+11735,francisco laime suyo,1419218 pt.,casa,417,cemento,semi plano,residencia,social
+11740,pablo zenteno mamani,8629619 pt.,casa,19,cemento,plano,residencia,economico
+11741,cerrado,,casa,102,tierra,plano,,
+11801,enrique bohoquez montaño,1189225 pt.,casa,3199,tierra,semi plano,residencia,economico
+11802,ciciliano warcaya ckoso y sra.,6616574 pt.,casa,48,tierra,pendiente,residencia,social
+11803,cerrado,,,,,,,
+11804,vicente mamaní laime,15578951 pt.,casa,429,tierra,semi plano,residencia,economico
+11805,francisco montes muñoz,1419755 pt.,casa,142,tierra,semi plano,residencia,social
+11806,francisco montes muñoz,1419755 pt.,lote,1993,tierra,pendiente,,
+11807,sixto jancko capurata,12834245 ch.,casa,19,tierra,pendiente,residencia,social
+11808,dominga rios gomez,6616318 pt.,casa,62,tierra,pendiente,residencia,economico
+11810,cerrado,,,,,,,
+11811,margarita alata jati,6613943 pt.,casa,124,tierra,pendiente,residencia,social
+11811,guido león oropeza,71172595 pt.,lote,2885,tierra,muy pendiente,,
+11811,cerrado,,,,,,,
+11811,cerrado,,,,,,,
+11811,crispin morocko alave,5578584 pt.,casa,62,cemento,plano,comercio,social
+11811,gregorio jurado canaviri,5128883 t.,casa,128,cemento,plano,comercio,social
+11811,francisco soto sierra,1013753 ch.,casa,115,cemento,plano,comercio,social
+11812,modesto aramayo ckoso,1419446 pt.,casa,84,cemento,plano,residencia,economico
+11813,justino layme lopez,5517481 pt.,casa,30,cemento,plano,residencia,social
+11813,victor laime navarro,1419575 pt.,casa,205,cemento,plano,comercio,social
+11814,geronimo jurado,,casa,79,tierra,plano,residencia,social
+11815,dionicio mamaní soliz,5563379 pt.,lote,120,tierra,plano,,
+11816,pablo mamaní cruz,5001-140166 u,casa,89,tierra,semi plano,residencia,social
+11901,ruperto toroya colque,,casa,179,tierra,semi plano,residencia,economico
+11902,pedro huarcaya villca,1419605 pt.,casa,119,tierra,semi plano,residencia,economico
+11903,cerrado,,lote,100,tierra,semi plano,,
+11904,cerrado,,lote,,tierra,semi plano,,
+11905,cerrado,,casa,,,,,
+11906,guido leon oropeza,3111740 or,casa,20,pavimento,plano,residencia,economico
+11907,gregoria inca sacaca,8586553 pt,casa,35,,plano,residencia,
+11908,cerrado,,,,,,,
+11909,cerrado,,,,,,,
+11910,sebastian soraide diaz,1419269 pt.,casa,89,tierra,muy pendiente,comercio,economico
+11911,maria soraide balcazar,8649860 pt,casa,167,tierra,plano,residencia,economico
+11912,cerrado,,casa,,tierra,,,
+11913,iglesia union cristiana,,iglesia,279,pavimento,plano,,economico
+11913,cerrado,,casa,,,,residencia,
+11913,cerrado,,casa,,,,,
+11914,damian mamani cruz,8586285 pt,casa,85,tierra,plano,residencia,economico
+11915,justino alvarado espadero,2777574 or,casa,103,tierra,muy pendiente,residencia,economico
+12001,demetria cruz cansejo,6655394 pt,casa,48,tierra,semi plano,residencia,economico
+12001,cerrado,,casa,,,,,
+12001,cerrado,,,,,,,
+12002,cerrado,,,,,,,
+12003,mariano layme navarro,1419592 pt,casa,107,tierra,semi plano,residencia,economico
+12003,ines romero quevedo,682901 or,,580,,semi plano,residencia,economico
+12004,cerrado,,,,,,,
+12005,teodora caiza layme de perez,6583563 pt,casa,180,tierra,plano,residencia,economico
+12007,antonio inca villca,,,29,,,,
+12008,cerrado,,casa,,pavimento,,,
+12009,cerrado,,casa,,pavimento,,,
+12009,cerrado,,casa,,pavimento,,,
+12010,leandro ibañez guarayo,6616125 pt.,casa,161,pavimento,pendiente,residencia,economico
+12010,cerrado,,casa,,pavimento,,,
+12011,ines romero quebedo,682901 or,casa,301,pavimento,pendiente,residencia,economico
+12011,cerrado,,casa,,tierra,,,
+12012,valentina ramos ferrutino,687162 or,casa,340,tierra,pendiente,residencia,economico
+12012,valentina ramos ferrutino,687162 or.,casa,132,tierra,pendiente,residencia,economico
+12013,cerrado,,casa,,,,,
+12013,cerrado,,casa,,,,,
+12014,cerrado,,casa,,pavimento,,,
+12015,francisco parada kalani,370415 pt.,casa,111,pavimento,semi plano,residencia,economico
+12016,layme quispe,3561794 cbba.,casa,220,pavimento,semi plano,residencia,economico
+12016,martha escalada,6583671 pt.,casa,157,pavimento,semi plano,residencia,economico
+12018,maxima cabrebra,,casa,252,pavimento,semi plano,residencia,economico
+12019,gregorio lezano quispe,5578631 pt.,casa,112,pavimento,pendiente,residencia,social
+12020,primitivo laime navarro,4104048 pt,casa,23,pavimento,semi plano,residencia,economico
+12020,justino yerba puma,1148450 ch,casa,109,pavimento,semi plano,residencia,social
+12021,nicolas yerba puma,6128929 pt.,casa,86,pavimento,pendiente,residencia,social
+12022,justina parda luna,8586538 pt.,casa,79,pavimento,pendiente,comercio,economico
+12023,cerrado,,,,,,,
+12024,saturna ramos inca,6517493 pt.,casa,130,tierra,semi plano,,economico
+12025,cerrado,,casa,,tierra,,,
+12025,milarion layme jahy,5591753 pt.,casa,75,tierra,pendiente,residencia,economico
+12026,marcelina mamani vargas,85886175 pt.,casa,205,tierra,semi plano,residencia,economico
+12027,gobierno autonomo municipal de samaipata,,equipamiento,147,,,,
+12027,cerrado,,,,,,,
+12028,luisa cardoso cabo de rojas,6616287 pt.,casa,210,tierra,,residencia,economico
+12028,osvaldo rojas,,lote,111,cemento,semi plano,residencia,economico
+12028,carlos villanuevo canaviri,8640470 pt.,casa,128,tierra,semi plano,residencia,economico
+12028,cerrado,,,,,,,
+12029,cerrado,,casa,,,,,
+12030,alberto cabrera parada,5578856 pt.,casa,231,tierra,pendiente,,economico
+12031,ajunta cañari mamani de cruz,6655440 pt.,casa,71,tierra,pendiente,residencia,economico
+12040,marcelina equipamiento viñola,1419799 pt.,casa,76,pavimento,plano,residencia,social
+12101,cerrado,,,,tierra,,,
+12102,dorotea inca villca de cruz,6655409 pt,casa,58,tierra,semi plano,residencia,economico
+12103,cerrado,,,,tierra,,,
+12104,gobierno autonomo municipal de samaipata,,casa,,tierra,semi plano,,
+12105,severina parada calani,1419875 pt.,casa,116,cemento,pendiente,comercio,social
+12106,cerrado,,,,cemento,,,
+12107,esteban villacorta,1144512 pt.,casa,332,cemento,plano,residencia,social
+12108,cerrado,,,,cemento,,,
+12109,cerrado,,,,,,,
+12110,cerrado,,,,,,,
+12111,erasmo caisa,,casa,117,cemento,semi plano,residencia,economico
+12201,albertina rios y victor parda mamani,3649509 ch.,casa,90,cemento,plano,residencia,social
+12201,cerrado,,,,cemento,,,
+12201,fidel cabrera saavedra,5578814 pt.,casa,33,cemento,semi plano,residencia,economico
+12201,severina parada calani,1419875 pt.,casa,22,cemento,plano,residencia,economico
+12201,cerrado,,,51,tierra,,residencia,
+12202,victor parada mamaní,3649504 ch.,lote,80,tierra,plano,,
+12202,cerrado,,,,tierra,,,
+12203,manuela mamani lopez,6583654 pt.,casa,109,tierra,pendiente,,economico
+12204,jhonny escalada mamani,8640341 pt.,casa,51,tierra,plano,residencia,social
+12205,rodolfo padilla ferrufino,1229189 pt.,casa,78,cemento,plano,residencia,economico
+12206,eugenia villacorta mamani,682878 or.,casa,113,cemento,plano,residencia,economico
+12206,cerrado,,,,,,,
+12206,cerrado,,,,,,,
+12206,frigido rivas diaz,1045952 pt.,casa,,tierra,plano,,economico
+12207,andrea quispe yerva,8586213 pt.,casa,26,pavimento,pendiente,residencia,economico
+12208,victor cruz rios,1077181 pt.,lote,,,,,economico
+12209,onorato cruz pacaja,5578528 pt,casa,93,cemento,plano,residencia,economico
+12210,cerrado,,,,cemento,,,
+12210,cerrado,,casa,,cemento,,,
+12212,cerrado,,casa,,cemento,,,
+12213,alberto cabrera parada,5578856 pt.,casa,24,cemento,plano,residencia,economico
+12213,cannino reyes velasquez,6657361 pt.,casa,127,pavimento,semi plano,residencia,economico
+12214,cerrado,,,,,,,
+12240,cerrado,1077181 ch.,,,,,,
+12301,cerrado,1407531 pt.,,,,,,
+12302,francisco parada kalani,3704715 pt.,casa,78,,,,
+12303,fermin cornejo milabres,,casa,224,tierra,semi plano,residencia,economico
+12304,cerrado,5576480 pt.,,,,,,
+12304,cerrado,,,,,,,
+12306,victor chirari garcia,1246516 pt.,casa,,,pendiente,residencia,social
+12307,toribia mamani mendoza,8586898 pt.,casa,122,pavimento,plano,residencia,economico
+12308,dionicia mamani villacorta,,casa,139,pavimento,plano,residencia,economico
+12309,cerrado,,,,,,,
+12310,donato mamani suyo,4102636 ch,casa,55,pavimento,plano,residencia,economico
+12311,primo parada diaz,4092921 ch.,casa,36,,plano,residencia,economico
+12312,jose layme mamani,1430902 pt.,casa,46,,plano,residencia,economico
+12313,cerrado,,,,,,,
+12314,antonia ramos ferrufino,,casa,33,cemento,plano,,
+12315,cerrado,68286 or.,,,,,,
+12315,cerrado,,,,,,,
+12316,jasinto sacaca cañari,5128856 pt.,casa,110,pavimento,plano,residencia,economico
+12316,margarita barrozo portillo,5573401 pt.,casa,733,tierra,plano,residencia,economico
+12316,marcelino uzuna,6592365,,52,cemento,plano,,social
+12316,saturnina layme paca hinojosa,5517483 pt.,casa,67,pavimento,plano,residencia,economico
+12316,damiana negrete,1335185 ch.,casa,264,cemento,semi plano,residencia,social
+12317,ana maria rivas torrez,,casa,,cemento,plano,residencia,economico
+12317,rodolfo padilla ferrufino,,,44,,,,
+12318,cerrado,,,,,,,
+12319,cerrado,,,,,,,
+12322,cerrado,,,,,,,
+12322,francisca torres paisi,4103925 ch.,casa,62,pavimento,semi plano,residencia,economico
+12322,cerrado,,,,,,,
+12401,silveria rivas,,casa,113,pavimento,semi plano,residencia,economico
+12402,josefina choque torrez,665517 pt.,casa,70,pavimento,semi plano,residencia,economico
+12403,gabino bautista villacolta,5576095 pt.,casa,,,pendiente,residencia,economico
+12404,paulina velazquez mamani,5520732 pt.,casa,99,pavimento,pendiente,residencia,economico
+12405,cerrado,,,,,,,
+12406,paulino chucamani mamani,1106624 ch,casa,113,,pendiente,residencia,economico
+12407,isaac raya calani,1106820 pt.,casa,115,,plano,residencia,economico
+12408,gregorio montaño lopez,,casa,115,empedrado,semi plano,residencia,economico
+12409,aniceto mamani poma,5517479 pt.,casa,107,empedrado,semi plano,residencia,economico
+12410,cerrado,,casa,,empedrado,,,
+12411,sixto villca morales,,casa,73,,semi plano,residencia,economico
+12412,martina mamani acho de lopez,8586205 pt.,casa,48,pavimento,plano,residencia,economico
+12413,simon perez condori,8586482 pt.,casa,56,piedra,plano,residencia,economico
+12413,gregorio perez raya,6585240 ch,casa,56,pavimento,pendiente,residencia,economico
+12414,gregorio lopez cruz,1419884 pt.,casa,63,pavimento,plano,residencia,economico
+12415,german lopez cruz,,casa,30,pavimento,plano,residencia,economico
+12416,gobierno autonomo municipal de samaipata,10502941 pt,equipamiento,115,empedrado,pendiente,residencia,economico
+12501,cerrado,,,,,,,
+12502,gobierno autonomo municipal de samaipata,,equipamiento,22,pavimento,pendiente,residencia,economico
+12503,jacinto portillo,5576137 pt,casa,69,pavimento,pendiente,residencia,economico
+12504,german raya cazani,,casa,139,empedrado,pendiente,residencia,economico
+12505,cerrado,,casa,,,,,
+12506,ramon onza otrillas,5563651 pt,casa,155,empedrado,pendiente,residencia,economico
+12507,german raya calani,,lote,267,,,,
+12508,gregorio raya calani,,casa,119,empedrado,pendiente,residencia,economico
+12508,julian mamani raya,,casa,103,empedrado,pendiente,residencia,economico
+12509,clemente portillo perez,5578870 pt,casa,103,empedrado,semi plano,residencia,economico
+12511,elvira mamani raya- angel cruz chiri,6613839 pt.,casa,101,empedrado,pendiente,residencia,economico
+12512,manuel villca corta guarcaya,5578809 pt,casa,110,empedrado,pendiente,residencia,economico
+12513,cerrado,,,,,,,
+12514,cerrado,,,,,,,
+12515,eduardo mamani janto,8586296 pt,casa,,tierra,pendiente,residencia,economico
+12516,getrudis laime puma,4106465 ch,casa,,tierra,pendiente,residencia,economico
+12517,trini sanabria-frías,6592365,,52,cemento,plano,,social
+12518,lucía manola briones jove,5517483 pt.,casa,67,pavimento,plano,residencia,economico
+12519,natalio pereira barrio,1335185 ch.,casa,264,cemento,semi plano,residencia,social
+12520,nerea alcalde solé,,casa,,cemento,plano,residencia,economico
+12521,gracia goicoechea alba,,,44,,,,
+12521,toño hidalgo blázquez,,,,,,,
+12522,cándida sedano jiménez,,,,,,,
+12523,eutimio barreda cobos,,,,,,,
+12524,rosario yuste falcón,4103925 ch.,casa,62,pavimento,semi plano,residencia,economico
+12528,encarnacion español ocaña,,,,,,,
+12528,magdalena vilaplana esteve,,casa,113,pavimento,semi plano,residencia,economico
+12528,adelardo novoa,665517 pt.,casa,70,pavimento,semi plano,residencia,economico
+12528,adoración rovira zabala,5576095 pt.,casa,,,pendiente,residencia,economico
+12529,ovidio lamas,5520732 pt.,casa,99,pavimento,pendiente,residencia,economico
+12601,reyes julián nogués,,,,,,,
+12602,adoración jurado clemente,1106624 ch,casa,113,,pendiente,residencia,economico
+12603,plácido zabala feijoo,1106820 pt.,casa,115,,plano,residencia,economico
+12604,abel alex cueto lópez,,casa,115,empedrado,semi plano,residencia,economico
+12605,miguela sanmiguel paz,5517479 pt.,casa,107,empedrado,semi plano,residencia,economico
+12606,narcisa villaverde montes,,casa,,empedrado,,,
+12607,leonardo aller bermúdez,,casa,73,,semi plano,residencia,economico
+12608,javiera bartolomé torrens,8586205 pt.,casa,48,pavimento,plano,residencia,economico
+12609,maría carmen de fuster,8586482 pt.,casa,56,piedra,plano,residencia,economico
+12610,adán fonseca marin,6585240 ch,casa,56,pavimento,pendiente,residencia,economico
+12610,adalberto de fabra,1419884 pt.,casa,63,pavimento,plano,residencia,economico
+12611,rosalinda jaume romero,,casa,30,pavimento,plano,residencia,economico
+12611,abigaíl enríquez carreras,10502941 pt,casa,115,empedrado,pendiente,residencia,economico
+12612,áfrica morcillo,,,,,,,
+12613,gilberto cárdenas-esparza,,casa,22,pavimento,pendiente,residencia,economico
+12614,marisela posada jover,5576137 pt,casa,69,pavimento,pendiente,residencia,economico
+12614,begoña claudia coello zabaleta,,casa,139,empedrado,pendiente,residencia,economico
+12616,marcos arregui sainz,,casa,,,,,
+12616,venceslás sastre peñalver,5563651 pt,casa,155,empedrado,pendiente,residencia,economico
+12701,febe amaya,,lote,267,,,,
+12701,quirino granados verdugo,,casa,119,empedrado,pendiente,residencia,economico
+12702,imelda de perea,,casa,103,empedrado,pendiente,residencia,economico
+12703,isidora de crespi,5578870 pt,casa,103,empedrado,semi plano,residencia,economico
+12704,balduino martin águila,6613839 pt.,casa,101,empedrado,pendiente,residencia,economico
+12705,casandra ramírez canet,5578809 pt,casa,110,empedrado,pendiente,residencia,economico
+12706,eustaquio vigil gil,,,,,,,
+12707,elvira del espinosa,,,,,,,
+12802,pía huertas manzanares,8586296 pt,casa,,tierra,pendiente,residencia,economico
+12802,alberto salas báez,4106465 ch,casa,,tierra,pendiente,residencia,economico
+12802,sol rosales calvo,6592365,,52,cemento,plano,,social
+12802,guiomar folch sanjuan,5517483 pt.,casa,67,pavimento,plano,residencia,economico
+12802,nidia pardo-nuñez,1335185 ch.,casa,264,cemento,semi plano,residencia,social
+12802,emperatriz sabina pastor pedrero,,casa,,cemento,plano,residencia,economico
+12802,ximena jurado-mata,,,44,,,,
+12802,eugenio aranda falcón,,,,,,,
+12802,felicia del palomo,,,,,,,
+12802,abel uribe cerro,,,,,,,
+12802,andrés felipe prado-infante,4103925 ch.,casa,62,pavimento,semi plano,residencia,economico
+12802,jordi de perea,,,,,,,
+12802,ricarda escrivá cervera,,casa,113,pavimento,semi plano,residencia,economico
+12802,socorro morales guerrero,665517 pt.,casa,70,pavimento,semi plano,residencia,economico
+12802,asunción ágata gutierrez morera,5576095 pt.,casa,,,pendiente,residencia,economico
+12802,jesús frías ibáñez,5520732 pt.,casa,99,pavimento,pendiente,residencia,economico
+12802,teodosio niño,,,,,,,
+12802,susana vizcaíno nuñez,1106624 ch,casa,113,,pendiente,residencia,economico
+12802,abilio cuéllar rovira,1106820 pt.,casa,115,,plano,residencia,economico
+12802,adora alberto rebollo,,casa,115,empedrado,semi plano,residencia,economico
+12802,primitivo jaén garcés,5517479 pt.,casa,107,empedrado,semi plano,residencia,economico
+12802,delfina donoso,,casa,,empedrado,,,
+12802,julio fuster vigil,,casa,73,,semi plano,residencia,economico
+12802,cintia carballo-bayona,8586205 pt.,casa,48,pavimento,plano,residencia,economico
+12802,fortunata pascual ribas,8586482 pt.,casa,56,piedra,plano,residencia,economico
+12802,lilia figuerola bauz,6585240 ch,casa,56,pavimento,pendiente,residencia,economico
+12802,pili morell-oliver,1419884 pt.,casa,63,pavimento,plano,residencia,economico
+12802,estrella peñas benito,,casa,30,pavimento,plano,residencia,economico
+12802,maría ángeles roura carnero,10502941 pt,casa,115,empedrado,pendiente,residencia,economico
+12802,violeta violeta lamas sarabia,,,,,,,
+12802,ruben marquez belda,,casa,22,pavimento,pendiente,residencia,economico
+12802,manola criado,5576137 pt,casa,69,pavimento,pendiente,residencia,economico
+12802,rita asensio salgado,,casa,139,empedrado,pendiente,residencia,economico
+12802,daniela cabello vallés,,casa,,,,,
+12802,nicolasa aurelia lasa puig,5563651 pt,casa,155,empedrado,pendiente,residencia,economico
+12802,jonatan trillo larrañaga,,lote,267,,,,
+12802,jose francisco alvarado pombo,,casa,119,empedrado,pendiente,residencia,economico
+12802,samanta casandra borrell maestre,,casa,103,empedrado,pendiente,residencia,economico
+12802,emilia maría luisa lluch vives,5578870 pt,casa,103,empedrado,semi plano,residencia,economico
+12802,esteban guillén mena,6613839 pt.,casa,101,empedrado,pendiente,residencia,economico
+12802,josué rocha juan,5578809 pt,casa,110,empedrado,pendiente,residencia,economico
+12802,encarnación alemán-prats,,,,,,,
+12802,celia verdú,,,,,,,
+12802,espiridión del viñas,8586296 pt,casa,,tierra,pendiente,residencia,economico
+12802,melania lobato-mena,4106465 ch,casa,,tierra,pendiente,residencia,economico
+12802,sosimo roig bayo,6613789 ch.,casa,152,tierra,pendiente,residencia,economico
+12802,abel carrasco-belda,6655392 pt.,casa,105,tierra,pendiente,residencia,economico
+12802,alicia celestina ibáñez santana,,casa,,tierra,pendiente,,
+12802,conrado torre,,casa,,tierra,pendiente,,
+12802,leoncio pombo nadal,1058752 ch.,lote,99,tierra,pendiente,residencia,
+12802,marcia tomas,5578667 pt.,casa,235,tierra,pendiente,residencia,economico
+12803,aurelia del ocaña,1419771 pt.,casa,129,cemento,pendiente,residencia,economico
+12803,porfirio cases fabregat,5578668 pt.,casa,78,cemento,semi plano,residencia,economico
+12803,maristela mármol,5578504 pt.,casa,200,cemento,semi plano,residencia,economico
+12803,leticia azorin cortina,,casa,,cemento,pendiente,,
+12803,régulo de sacristán,,casa,161,cemento,pendiente,residencia,economico
+12803,esteban del múñiz,5128913 pt.,casa,64,cemento,semi plano,residencia,social
+12804,trinidad exposito abella,,casa,245,cemento,semi plano,residencia,economico
+12804,pánfilo ortiz pardo,1419685 pt.,casa,86,cemento,pendiente,residencia,economico
+12804,glauco llorens álvarez,4092112 ch.,casa,128,cemento,pendiente,residencia,social
+12805,susanita zaragoza higueras,10500069 pt.,casa,177,cemento,,comercio,economico
+12805,ileana asunción beltran samper,,casa,,cemento,,,
+12805,chus merino casas,8586555 pt.,casa,172,cemento,pendiente,residencia,social
+12805,carmina cervera,1419309 pt.,casa,50,tierra,pendiente,residencia,social
+12806,curro coello izaguirre,66133789 pt.,casa,321,tierra,pendiente,residencia,economico
+12806,mario roldán,5188776 pt.,casa,170,tierra,pendiente,residencia,social
+12806,jesusa fuentes,,casa,,cemento,plano,,
+12809,óscar dominguez mayol,6655432 pt.,casa,208,cemento,pendiente,comercio,social
+12809,angelino contreras pi,5578962 pt.,casa,97,cemento,pendiente,residencia,economico
+12809,rafa camino perelló,1419810 pt.,casa,155,cemento,pendiente,residencia,social
+12810,aura vidal-roma,5576048 pt.,casa,147,cemento,pendiente,residencia,economico
+12810,lara jordana ballester lladó,1229196 pt.,casa,1064,cemento,pendiente,residencia,social
+12810,aníbal castelló sarabia,1419691 pt.,casa,172,cemento,semi plano,residencia,economico
+12810,adriana higueras ribes,1263519 pt.,casa,1025,cemento,pendiente,residencia,economico
+12810,ernesto cuadrado mesa,,casa,501,cemento,pendiente,residencia,social
+12811,cerrado,,casa,410,tierra,pendiente,residencia,economico
+12811,cerrado,,lote,224,tierra,pendiente,,
+12811,cerrado,,lote,345,tierra,pendiente,,
+12811,bernabe salinas arcienega,1246497 pt.,lote,345,tierra,plano,,
+12811,edmundo ckoso,,casa,83,tierra,plano,residencia,social
+12811,patricia colque lezano,4108193 ch.,casa,58,cemento,pendiente,residencia,social
+12812,zenon mamaní gordillo,8586187 pt.,casa,548,cemento,plano,residencia,economico
+12812,alicia cayo d avendaño,,casa,114,cemento,pendiente,comercio,economico
+12812,sebastian negrete romero,,casa,173,cemento,pendiente,residencia,economico
+12812,cerrado,,casa,,cemento,plano,,
+12812,eloy layme,,casa,47,cemento,plano,residencia,economico
+12812,enrique bohoquez montaño,1189225 pt.,casa,57,cemento,plano,comercio,economico
+12813,francisco laime suyo,1419218 pt.,casa,417,cemento,semi plano,residencia,social
+12813,pablo zenteno mamani,8629619 pt.,casa,19,cemento,plano,residencia,economico
+12813,cerrado,,casa,102,tierra,plano,,
+12814,enrique bohoquez montaño,1189225 pt.,casa,3199,tierra,semi plano,residencia,economico
+12814,ciciliano warcaya ckoso y sra.,6616574 pt.,casa,48,tierra,pendiente,residencia,social
+12814,cerrado,,,,,,,
+12814,vicente mamaní laime,15578951 pt.,casa,429,tierra,semi plano,residencia,economico
+12814,francisco montes muñoz,1419755 pt.,casa,142,tierra,semi plano,residencia,social
+12814,francisco montes muñoz,1419755 pt.,lote,1993,tierra,pendiente,,
+12815,sixto jancko capurata,12834245 ch.,casa,19,tierra,pendiente,residencia,social
+12815,dominga rios gomez,6616318 pt.,casa,62,tierra,pendiente,residencia,economico
+12815,cerrado,,,,,,,
+12815,margarita alata jati,6613943 pt.,casa,124,tierra,pendiente,residencia,social
+12815,guido león oropeza,71172595 pt.,lote,2885,tierra,muy pendiente,,
+12815,cerrado,,,,,,,
+12815,cerrado,,,,,,,
+12815,crispin morocko alave,5578584 pt.,casa,62,cemento,plano,comercio,social
+12815,gregorio jurado canaviri,5128883 t.,casa,128,cemento,plano,comercio,social
+12815,francisco soto sierra,1013753 ch.,casa,115,cemento,plano,comercio,social
+12815,modesto aramayo ckoso,1419446 pt.,casa,84,cemento,plano,residencia,economico
+12901,justino layme lopez,5517481 pt.,casa,30,cemento,plano,residencia,social
+12902,victor laime navarro,1419575 pt.,casa,205,cemento,plano,comercio,social
+12903,geronimo jurado,,casa,79,tierra,plano,residencia,social
+12904,dionicio mamaní soliz,5563379 pt.,lote,120,tierra,plano,,
+12905,pablo mamaní cruz,5001-140166 u,casa,89,tierra,semi plano,residencia,social
+12906,ruperto toroya colque,,casa,179,tierra,semi plano,residencia,economico
+13001,pedro huarcaya villca,1419605 pt.,casa,119,tierra,semi plano,residencia,economico
+13002,cerrado,,lote,100,tierra,semi plano,,
+13003,cerrado,,lote,,tierra,semi plano,,
+13004,cerrado,,casa,,,,,
+13005,guido leon oropeza,3111740 or,casa,20,pavimento,plano,residencia,economico
+13006,gregoria inca sacaca,8586553 pt,casa,35,,plano,residencia,
+13007,cerrado,,,,,,,
+13008,cerrado,,,,,,,
+13009,sebastian soraide diaz,1419269 pt.,casa,89,tierra,muy pendiente,comercio,economico
+13010,maria soraide balcazar,8649860 pt,casa,167,tierra,plano,residencia,economico
+13011,cerrado,,casa,,tierra,,,
+13012,cerrado,,casa,161,cemento,pendiente,residencia,economico
+13013,iglesia union cristiana,,casa,64,cemento,semi plano,residencia,social
+13101,cerrado,,casa,,,,,
+13101,agustin mamaní saavedra,6613789 ch.,casa,152,tierra,pendiente,residencia,economico
+13102,faustino mamaní zenteno,6655392 pt.,casa,105,tierra,pendiente,residencia,economico
+13102,cerrado,,casa,,tierra,pendiente,,
+13102,cerrado,,casa,,tierra,pendiente,,
+13102,carmen romero lazcano,1058752 ch.,lote,99,tierra,pendiente,residencia,
+13103,felimon chiri cruz y sra.,5578667 pt.,casa,235,tierra,pendiente,residencia,economico
+13103,jose caballero lopez,1419771 pt.,casa,129,cemento,pendiente,residencia,economico
+13104,carmelo mamani lezano,5578668 pt.,casa,78,cemento,semi plano,residencia,economico
+13104,tomas llanque rios,5578504 pt.,casa,200,cemento,semi plano,residencia,economico
+13105,cerrado,,casa,,cemento,pendiente,,
+13105,vicente chiri (finado),,casa,161,cemento,pendiente,residencia,economico
+13105,barbara flores galvan,5128913 pt.,casa,64,cemento,semi plano,residencia,social
+13105,hermogenes gimenez,,casa,245,cemento,semi plano,residencia,economico
+13106,luis muñoz poveda y sra.,1419685 pt.,casa,86,cemento,pendiente,residencia,economico
+13106,mario suarez luna,4092112 ch.,casa,128,cemento,pendiente,residencia,social
+13106,cecilia suarez flores,10500069 pt.,casa,177,cemento,,comercio,economico
+13106,cerrado,,casa,,cemento,,,
+13106,marcos yapura padilla,8586555 pt.,casa,172,cemento,pendiente,residencia,social
+13106,victor mamaní saavedra,1419309 pt.,casa,50,tierra,pendiente,residencia,social
+13106,agustin mamaní saavedra,66133789 pt.,casa,321,tierra,pendiente,residencia,economico
+13106,simon choque cruz,5188776 pt.,casa,170,tierra,pendiente,residencia,social
+13106,cerrado,,casa,,cemento,plano,,
+13106,eusebia berrios coca de lira,6655432 pt.,casa,208,cemento,pendiente,comercio,social
+13106,ernesto mundocorre colque,5578962 pt.,casa,97,cemento,pendiente,residencia,economico
+13106,hilaria condori mamani de marcani,1419810 pt.,casa,155,cemento,pendiente,residencia,social
+13106,leandro marcani ambar,5576048 pt.,casa,147,cemento,pendiente,residencia,economico
+13106,felix torrez pacheco,1229196 pt.,casa,1064,cemento,pendiente,residencia,social
+13107,crispin marcani condori,1419691 pt.,casa,172,cemento,semi plano,residencia,economico
+13107,casimiro ramos sandi y sra.,1263519 pt.,casa,1025,cemento,pendiente,residencia,economico
+13107,fabian lezano,,casa,501,cemento,pendiente,residencia,social
+13107,cerrado,,casa,410,tierra,pendiente,residencia,economico
+13108,cerrado,,lote,224,tierra,pendiente,,
+13108,cerrado,,lote,345,tierra,pendiente,,
+13109,bernabe salinas arcienega,1246497 pt.,lote,345,tierra,plano,,
+13109,edmundo ckoso,,casa,83,tierra,plano,residencia,social
+13109,patricia colque lezano,4108193 ch.,casa,58,cemento,pendiente,residencia,social
+13109,zenon mamaní gordillo,8586187 pt.,casa,548,cemento,plano,residencia,economico
+13110,alicia cayo d avendaño,,casa,114,cemento,pendiente,comercio,economico
+13110,sebastian negrete romero,,casa,173,cemento,pendiente,residencia,economico
+13111,cerrado,,casa,,cemento,plano,,
+13111,eloy layme,,casa,47,cemento,plano,residencia,economico
+13112,enrique bohoquez montaño,1189225 pt.,casa,57,cemento,plano,comercio,economico
+13112,francisco laime suyo,1419218 pt.,casa,417,cemento,semi plano,residencia,social
+13113,pablo zenteno mamani,8629619 pt.,casa,19,cemento,plano,residencia,economico
+13113,cerrado,,casa,102,tierra,plano,,
+13113,enrique bohoquez montaño,1189225 pt.,casa,3199,tierra,semi plano,residencia,economico
+13113,ciciliano warcaya ckoso y sra.,6616574 pt.,casa,48,tierra,pendiente,residencia,social
+13115,cerrado,,,,,,,
+13115,vicente mamaní laime,15578951 pt.,casa,429,tierra,semi plano,residencia,economico
+13115,francisco montes muñoz,1419755 pt.,casa,142,tierra,semi plano,residencia,social
+13115,francisco montes muñoz,1419755 pt.,lote,1993,tierra,pendiente,,
+13115,sixto jancko capurata,12834245 ch.,casa,19,tierra,pendiente,residencia,social
+13115,dominga rios gomez,6616318 pt.,casa,62,tierra,pendiente,residencia,economico
+13115,cerrado,,,,,,,
+13115,margarita alata jati,6613943 pt.,casa,124,tierra,pendiente,residencia,social
+13115,guido león oropeza,71172595 pt.,lote,2885,tierra,muy pendiente,,
+13115,cerrado,,,,,,,
+13115,cerrado,,,,,,,
+13115,crispin morocko alave,5578584 pt.,casa,62,cemento,plano,comercio,social
+13115,gregorio jurado canaviri,5128883 t.,casa,128,cemento,plano,comercio,social
+13115,francisco soto sierra,1013753 ch.,casa,115,cemento,plano,comercio,social
+13116,modesto aramayo ckoso,1419446 pt.,casa,84,cemento,plano,residencia,economico
+13116,justino layme lopez,5517481 pt.,casa,30,cemento,plano,residencia,social
+13117,victor laime navarro,1419575 pt.,casa,205,cemento,plano,comercio,social
+13117,geronimo jurado,,casa,79,tierra,plano,residencia,social
+13118,dionicio mamaní soliz,5563379 pt.,lote,120,tierra,plano,,
+13118,pablo mamaní cruz,5001-140166 u,casa,89,tierra,semi plano,residencia,social
+13119,ruperto toroya colque,,casa,179,tierra,semi plano,residencia,economico
+13119,pedro huarcaya villca,1419605 pt.,casa,119,tierra,semi plano,residencia,economico
+13119,cerrado,,lote,100,tierra,semi plano,,
+13122,cerrado,,lote,,tierra,semi plano,,
+13122,cerrado,,casa,,,,,
+13122,guido leon oropeza,3111740 or,casa,20,pavimento,plano,residencia,economico
+13122,gregoria inca sacaca,8586553 pt,casa,35,,plano,residencia,
+13123,cerrado,,,,,,,
+13123,cerrado,,,,,,,
+13124,sebastian soraide diaz,1419269 pt.,casa,89,tierra,muy pendiente,comercio,economico
+13124,maria soraide balcazar,8649860 pt,casa,167,tierra,plano,residencia,economico
+13130,cerrado,,casa,,tierra,,,
+13130,iglesia union cristiana,,iglesia,279,pavimento,plano,,economico
+13130,cerrado,,casa,,,,residencia,
+13130,cerrado,,casa,,,,,
+13130,damian mamani cruz,8586285 pt,casa,85,tierra,plano,residencia,economico
+13130,justino alvarado espadero,2777574 or,casa,103,tierra,muy pendiente,residencia,economico
+13130,demetria cruz cansejo,6655394 pt,casa,48,tierra,semi plano,residencia,economico
+13130,cerrado,,casa,,,,,
+13201,cerrado,,,,,,,
+13202,cerrado,,,,,,,
+13202,mariano layme navarro,1419592 pt,casa,107,tierra,semi plano,residencia,economico
+13202,ines romero quevedo,682901 or,,580,,semi plano,residencia,economico
+13204,cerrado,,,,,,,
+13204,teodora caiza layme de perez,6583563 pt,casa,180,tierra,plano,residencia,economico
+13204,antonio inca villca,,,29,,,,
+13204,cerrado,,casa,,pavimento,,,
+13205,cerrado,,casa,,pavimento,,,
+13206,cerrado,,casa,,pavimento,,,
+13206,leandro ibañez guarayo,6616125 pt.,casa,161,pavimento,pendiente,residencia,economico
+13206,cerrado,,casa,,pavimento,,,
+13206,ines romero quebedo,682901 or,casa,301,pavimento,pendiente,residencia,economico
+13206,cerrado,,casa,,tierra,,,
+13206,valentina ramos ferrutino,687162 or,casa,340,tierra,pendiente,residencia,economico
+13206,valentina ramos ferrutino,687162 or.,casa,132,tierra,pendiente,residencia,economico
+13206,cerrado,,casa,,,,,
+13207,cerrado,,casa,,,,,
+13207,cerrado,,casa,,pavimento,,,
+13208,francisco parada kalani,370415 pt.,casa,111,pavimento,semi plano,residencia,economico
+13209,layme quispe,3561794 cbba.,casa,220,pavimento,semi plano,residencia,economico
+13210,martha escalada,6583671 pt.,casa,157,pavimento,semi plano,residencia,economico
+13211,maxima cabrebra,,casa,252,pavimento,semi plano,residencia,economico
+13211,gregorio lezano quispe,5578631 pt.,casa,112,pavimento,pendiente,residencia,social
+13212,primitivo laime navarro,4104048 pt,casa,23,pavimento,semi plano,residencia,economico
+13212,justino yerba puma,1148450 ch,casa,109,pavimento,semi plano,residencia,social
+13213,nicolas yerba puma,6128929 pt.,casa,86,pavimento,pendiente,residencia,social
+13214,justina parda luna,8586538 pt.,casa,79,pavimento,pendiente,comercio,economico
+13215,cerrado,,,,,,,
+13215,saturna ramos inca,6517493 pt.,casa,130,tierra,semi plano,,economico
+13216,cerrado,,casa,,tierra,,,
+13217,milarion layme jahy,5591753 pt.,casa,75,tierra,pendiente,residencia,economico
+13218,marcelina mamani vargas,85886175 pt.,casa,205,tierra,semi plano,residencia,economico
+13219,gobierno autonomo municipal de samaipata,,equipamiento,147,,,,
+13220,cerrado,,,,,,,
+13221,luisa cardoso cabo de rojas,6616287 pt.,casa,210,tierra,,residencia,economico
+13223,osvaldo rojas,,lote,111,cemento,semi plano,residencia,economico
+13223,carlos villanuevo canaviri,8640470 pt.,casa,128,tierra,semi plano,residencia,economico
+13240,cerrado,,,,,,,
+13301,cerrado,,casa,,,,,
+13302,alberto cabrera parada,5578856 pt.,casa,231,tierra,pendiente,,economico
+13303,ajunta cañari mamani de cruz,6655440 pt.,casa,71,tierra,pendiente,residencia,economico
+13304,marcelina equipamiento viñola,1419799 pt.,casa,76,pavimento,plano,residencia,social
+13305,cerrado,,,,tierra,,,
+13306,dorotea inca villca de cruz,6655409 pt,casa,58,tierra,semi plano,residencia,economico
+13307,cerrado,,,,tierra,,,
+13309,cerrado,,,,pavimento,,,
+13312,severina parada calani,1419875 pt.,casa,116,cemento,pendiente,comercio,social
+13313,cerrado,,,,cemento,,,
+13314,esteban villacorta,1144512 pt.,casa,332,cemento,plano,residencia,social
+13401,cerrado,,,,cemento,,,
+13501,cerrado,,,,,,,
+13501,cerrado,,,,,,,
+13501,erasmo caisa,,casa,117,cemento,semi plano,residencia,economico
+13501,albertina rios y victor parda mamani,3649509 ch.,casa,90,cemento,plano,residencia,social
+13501,cerrado,,,,cemento,,,
+13501,fidel cabrera saavedra,5578814 pt.,casa,33,cemento,semi plano,residencia,economico
+13503,severina parada calani,1419875 pt.,casa,22,cemento,plano,residencia,economico
+13504,cerrado,,,51,tierra,,residencia,
+13505,victor parada mamaní,3649504 ch.,lote,80,tierra,plano,,
+13506,cerrado,,,,tierra,,,
+13507,manuela mamani lopez,6583654 pt.,casa,109,tierra,pendiente,,economico
+13508,jhonny escalada mamani,8640341 pt.,casa,51,tierra,plano,residencia,social
+13510,rodolfo padilla ferrufino,1229189 pt.,casa,78,cemento,plano,residencia,economico
+13511,eugenia villacorta mamani,682878 or.,casa,113,cemento,plano,residencia,economico
+13512,cerrado,,,,,,,
+13513,cerrado,,,,,,,
+13514,frigido rivas diaz,1045952 pt.,casa,,tierra,plano,,economico
+13515,andrea quispe yerva,8586213 pt.,casa,26,pavimento,pendiente,residencia,economico
+13516,victor cruz rios,1077181 pt.,lote,,,,,economico
+13516,onorato cruz pacaja,5578528 pt,casa,93,cemento,plano,residencia,economico
+13517,cerrado,,,,cemento,,,
+13517,cerrado,,casa,,cemento,,,
+13518,cerrado,,casa,,cemento,,,
+13519,alberto cabrera parada,5578856 pt.,casa,24,cemento,plano,residencia,economico
+13520,cannino reyes velasquez,6657361 pt.,casa,127,pavimento,semi plano,residencia,economico
+13521,cerrado,,,,,,,
+13522,cerrado,1077181 ch.,,,,,,
+13523,cerrado,1407531 pt.,,,,,,
+13524,francisco parada kalani,3704715 pt.,casa,78,,,,
+13525,fermin cornejo milabres,,casa,224,tierra,semi plano,residencia,economico
+13526,cerrado,5576480 pt.,,,,,,
+13527,cerrado,,,,,,,
+13528,victor chirari garcia,1246516 pt.,casa,,,pendiente,residencia,social
+13529,toribia mamani mendoza,8586898 pt.,casa,122,pavimento,plano,residencia,economico
+13530,dionicia mamani villacorta,,casa,139,pavimento,plano,residencia,economico
+13530,cerrado,,,,,,,
+13531,donato mamani suyo,4102636 ch,casa,55,pavimento,plano,residencia,economico
+13532,primo parada diaz,4092921 ch.,casa,36,,plano,residencia,economico
+13532,jose layme mamani,1430902 pt.,casa,46,,plano,residencia,economico
+13532,cerrado,,,,,,,
+13532,antonia ramos ferrufino,,casa,33,cemento,plano,,
+13540,cerrado,68286 or.,,,,,,
+14101,cerrado,,,,,,,
+14102,jasinto sacaca cañari,5128856 pt.,casa,110,pavimento,plano,residencia,economico
+14103,margarita barrozo portillo,5573401 pt.,casa,733,tierra,plano,residencia,economico
+14105,marcelino uzuna,6592365,,52,cemento,plano,,social
+14105,saturnina layme paca hinojosa,5517483 pt.,casa,67,pavimento,plano,residencia,economico
+14106,damiana negrete,1335185 ch.,casa,264,cemento,semi plano,residencia,social
+14106,ana maria rivas torrez,,casa,,cemento,plano,residencia,economico
+14106,rodolfo padilla ferrufino,,,44,,,,
+14106,cerrado,,,,,,,
+14107,cerrado,,,,,,,
+14108,cerrado,,,,,,,
+14110,francisca torres paisi,4103925 ch.,casa,62,pavimento,semi plano,residencia,economico
+14110,cerrado,,,,,,,
+14117,silveria rivas,,casa,113,pavimento,semi plano,residencia,economico
+14118,josefina choque torrez,665517 pt.,casa,70,pavimento,semi plano,residencia,economico
+14201,gabino bautista villacolta,5576095 pt.,casa,,,pendiente,residencia,economico
+14201,paulina velazquez mamani,5520732 pt.,casa,99,pavimento,pendiente,residencia,economico
+14202,cerrado,,,,,,,
+14203,paulino chucamani mamani,1106624 ch,casa,113,,pendiente,residencia,economico
+14204,isaac raya calani,1106820 pt.,casa,115,,plano,residencia,economico
+14205,gregorio montaño lopez,,casa,115,empedrado,semi plano,residencia,economico
+14206,aniceto mamani poma,5517479 pt.,casa,107,empedrado,semi plano,residencia,economico
+14207,cerrado,,casa,,empedrado,,,
+14208,sixto villca morales,,casa,73,,semi plano,residencia,economico
+14209,martina mamani acho de lopez,8586205 pt.,casa,48,pavimento,plano,residencia,economico
+14209,simon perez condori,8586482 pt.,casa,56,piedra,plano,residencia,economico
+14210,gregorio perez raya,6585240 ch,casa,56,pavimento,pendiente,residencia,economico
+14210,gregorio lopez cruz,1419884 pt.,casa,63,pavimento,plano,residencia,economico
+14210,german lopez cruz,,casa,30,pavimento,plano,residencia,economico
+14211,florentino sangreri,10502941 pt,casa,115,empedrado,pendiente,residencia,economico
+14240,cerrado,,,,,,,
+14301,romulo partillo,,casa,22,pavimento,pendiente,residencia,economico
+14301,jacinto portillo,5576137 pt,casa,69,pavimento,pendiente,residencia,economico
+14301,german raya cazani,,casa,139,empedrado,pendiente,residencia,economico
+14301,cerrado,,casa,,,,,
+14301,ramon onza otrillas,5563651 pt,casa,155,empedrado,pendiente,residencia,economico
+14303,german raya calani,,lote,267,,,,
+14303,gregorio raya calani,,casa,119,empedrado,pendiente,residencia,economico
+14304,julian mamani raya,,casa,103,empedrado,pendiente,residencia,economico
+14304,clemente portillo perez,5578870 pt,casa,103,empedrado,semi plano,residencia,economico
+14305,elvira mamani raya- angel cruz chiri,6613839 pt.,casa,101,empedrado,pendiente,residencia,economico
+14306,manuel villca corta guarcaya,5578809 pt,casa,110,empedrado,pendiente,residencia,economico
+14307,cerrado,,,,,,,
+14308,cerrado,,,,,,,
+14309,eduardo mamani janto,8586296 pt,casa,,tierra,pendiente,residencia,economico
+14309,getrudis laime puma,4106465 ch,casa,,tierra,pendiente,residencia,economico
+14309,anita del borja,1229129 pt.,lote,94,cemento,semi plano,,
+14309,erasmo cándido vilar villar,1075351 ch.,casa,87,cemento,semi plano,residencia,economico
+14309,chita barco-aguilera,,,,cemento,semi plano,,
+14309,maría teresa hernando-cepeda,5682755 ch.,casa,226,cemento,semi plano,residencia,economico
+14310,adora bastida uría,1229129 pt.,casa,83,cemento,,,economico
+14310,juan bautista jesús gibert alcázar,4099074 pt.,casa,60,empedrado,semi plano,residencia,economico
+14310,yésica porcel peláez,8640543 pt.,casa,257,empedrado,semi plano,residencia,social
+14310,graciana guardiola melero,,casa,,empedrado,plano,,
+14601,ricarda alarcón barco,,casa,,empedrado,semi plano,comercio,
+14601,cerrado,1335194 pt.,equipamiento,4086,cemento,plano,,economico
+14601,desiderio balaguer bartolomé,10518188 or.,casa,,empedrado,pendiente,residencia,
+14601,roberto ribes-marco,,casa,35,empedrado,plano,residencia,economico
+14601,marita pilar losa alonso,,casa,,empedrado,,,
+14601,hugo martí,1419756 pt.,casa,215,tierra,semi plano,residencia,social
+14601,epifanio roldán bautista,4097238 ch.,casa,175,tierra,semi plano,residencia,social
+14602,leocadio ramírez segarra,,,,empedrado,semi plano,,
+14602,gobierno autonomo municipal de samaipata,2648564 pt.,equipamiento,174,empedrado,semi plano,residencia,economico
+14602,gobierno autonomo municipal de samaipata,,equipamiento,20,empedrado,semi plano,residencia,social
+14603,fabricio barrera nuñez,5576149 pt.,casa,33,empedrado,semi plano,comercio,social
+14603,nydia anguita,5517499 pt.,casa,397,empedrado,semi plano,residencia,social
+14626,nazaret del nieto,,casa,160,empedrado,semi plano,residencia,social
+14701,piedad camino manso,,casa,81,empedrado,semi plano,residencia,social
+14702,paulina del gonzalo,,casa,91,empedrado,semi plano,residencia,social
+14703,benito pi pedraza,7301035 pt,casa,239,empedrado,plano,residencia,social
+14704,plinio garcia,1075350 ch.,casa,44,empedrado,semi plano,residencia,economico
+14705,dionisia castañeda abad,55171139 pt.,casa,141,empedrado,semi plano,residencia,economico
+14706,rosaura sans peñas,5517439 pt.,casa,,empedrado,semi plano,residencia,social
+14706,eliseo ródenas llabrés,,casa,124,empedrado,pendiente,residencia,economico
+14707,mateo coll,5576176 pt,casa,149,empedrado,,residencia,social
+14707,regina blanca-rico,,casa,,empedrado,,,
+14707,juan luis alba tejero,,casa,105,empedrado,semi plano,residencia,economico
+14707,julián hernando peñas,10518302 pt.,casa,,empedrado,,,economico
+14708,fabricio heredia acero,,casa,,empedrado,plano,,
+14708,candelas mena llabrés,,casa,,empedrado,,,
+14708,salomón mas rico,3660667 pt.,casa,151,cemento,semi plano,residencia,economico
+14708,teófilo palacios-coronado,5578753 pt.,casa,135,empedrado,plano,residencia,social
+14709,jeremías de amor,1407507 pt.,casa,135,empedrado,pendiente,residencia,economico
+14710,trini quirós ferrero,1246497 pt,casa,149,empedrado,pendiente,residencia,economico
+14711,benigno viña-camacho,,casa,149,empedrado,plano,residencia,economico
+14712,benigna berenguer palacio,,casa,135,empedrado,semi plano,residencia,social
+14713,amor blázquez pizarro,3707754 pt.,casa,129,empedrado,plano,residencia,economico
+14714,luisina flores olivé,,casa,136,empedrado,semi plano,residencia,economico
+14714,ester llanos sanmartín,5578655 pt.,casa,274,empedrado,pendiente,residencia,economico
+14715,leandro sancho gil,44112055 ch,casa,98,tierra,plano,residencia,economico
+14715,ciro cayetano tolosa miralles,10518013 pt.,casa,89,tierra,plano,residencia,economico
+14715,corona escalona alfonso,4112055 ch.,casa,68,tierra,plano,residencia,economico
+14715,onofre caro guillen,682974 or.,casa,169,tierra,plano,residencia,social
+14715,prudencio río rodríguez,6613766 pt.,casa,39,empedrado,plano,residencia,social
+14715,eva renata domínguez gabaldón,5578834 pt.,casa,141,tierra,pendiente,residencia,social
+14715,aitor gallo gaya,5578902 pt.,casa,384,tierra,semi plano,residencia,economico
+14716,samu galvez frutos,8586355 ch.,casa,28,cemento,plano,residencia,social
+14717,modesta de corominas,12405931 pt,casa,25,cemento,plano,residencia,social
+14718,eleuterio torres,,equipamiento,3600,cemento,plano,residencia,bueno
+14719,daniela aragonés aparicio,,casa,,cemento,,residencia,
+14720,gobierno autonomo municipal de samaipata,,equipamiento,4086,cemento,plano,,economico
+14721,marcelino núñez tolosa,6655335 pt.,casa,95,cemento,semi plano,comercio,social
+14721,aarón cesar posada pintor,,casa,417,cemento,semi plano,residencia,economico
+14722,jordi meléndez camps,,casa,179,cemento,semi plano,residencia,social
+14722,godofredo piña-nadal,687163 or.,casa,230,tierra,plano,residencia,social
+14723,heraclio franco vila,5643624 pt.,casa,166,empedrado,semi plano,,social
+14723,macaria vallejo folch,,casa,24,cemento,plano,residencia,social
+14724,sabas lerma martín,1430902 pt.,casa,196,cemento,plano,residencia,economico
+14724,chita pazos revilla,,casa,24,cemento,plano,residencia,social
+14725,victor puente,1229129 pt.,casa,180,cemento,pendiente,residencia,economico
+14725,domitila de galvez,5001-15015ja pt.,casa,18,cemento,plano,residencia,economico
+14726,esperanza pareja puente,133599 pt.,casa,99,cemento,plano,residencia,social
+14727,teresita pol escalona,,,103,cemento,semi plano,,
+14728,ruth cifuentes sevilla,5517474 pt.,casa,74,cemento,pendiente,residencia,economico
+14729,ámbar sáenz agustí,6683296 pt,casa,77,cemento,pendiente,residencia,economico
+14729,rodrigo lastra arco,,casa,,cemento,pendiente,,
+14730,ainara feijoo monreal,,casa,,cemento,plano,,
+14731,luís bárcena navas,8597911 pt.,casa,133,cemento,pendiente,residencia,economico
+14731,jimena frías,,casa,,tierra,,residencia,
+14732,inocencio bejarano mármol,6583678 pt.,casa,185,cemento,semi plano,residencia,economico
+14733,miriam pelayo salazar,5576483 pt.,casa,73,cemento,pendiente,residencia,economico
+14734,rodolfo méndez alonso,3626864 ch.,casa,47,cemento,pendiente,residencia,social
+14735,celestino vidal,3707528 pt.,casa,88,cemento,pendiente,residencia,economico
+14736,jose miguel busquets mate,,casa,223,cemento,pendiente,residencia,social
+14736,heliodoro luís-poza,,casa,184,cemento,semi plano,,bueno
+14736,lorenza badía calvet,5578747 pt,casa,,cemento,pendiente,residencia,economico
+14738,zaira tamarit atienza,1073788 ch,casa,99,cemento,plano,residencia,economico
+14739,salomé sales-torres,5490651 pt.,casa,45,cemento,plano,residencia,economico
+14740,maría josé jessica bas hernandez,,casa,,cemento,pendiente,,
+14740,viviana constanza morante mateo,,casa,,cemento,pendiente,,
+14741,gobierno autonomo municipal de samaipata,,equipamiento,1345,cemento,plano,residencia,bueno
+14742,gobierno autonomo municipal de samaipata,,equipamiento,342,cemento,plano,,economico
+14742,jose antonio frías-campos,,casa,,tierra,plano,,
+14742,francisco jose carranza,,casa,,tierra,semi plano,,
+14743,cayetano palau niño,6683280 pt,casa,126,tierra,plano,residencia,social
+14743,gobierno autonomo municipal de samaipata,8340212 lpz,equipamiento,178,empedrado,plano,residencia,bueno
+14744,rosalva tenorio carmona,,,,,,,
+14745,julián méndez barroso,682864 or.,casa,146,cemento,plano,comercio,social
+14801,saturnina ribas jimenez,6655388 pt.,casa,193,cemento,plano,residencia,economico
+14801,jose antonio saturnino castilla castelló,,,,,,,
+14801,patricia pinilla-esparza,5517523 pt,casa,64,cemento,plano,residencia,economico
+14801,pánfilo olmo-segura,,casa,921,cemento,plano,residencia,social
+14801,hilda mesa maldonado,5676385 pt,casa,,cemento,plano,residencia,social
+14802,gerardo pellicer montserrat,3707884 pt.,casa,,cemento,plano,residencia,social
+14803,león cuadrado perales,6657816 pt.,casa,,cemento,semi plano,residencia,social
+14804,julie niño pellicer,1151173 pt.,casa,193,cemento,semi plano,residencia,social
+14805,lucila viñas delgado,4092921 ch.,casa,128,cemento,semi plano,residencia,social
+14806,teófila solé-bosch,5517480 pt,casa,188,cemento,semi plano,residencia,social
+14807,benigno montalbán-mascaró,687163 or.,casa,157,tierra,plano,residencia,social
+14808,xiomara cabrero suárez,,sedez,154,cemento,plano,residencia,social
+14809,nilda ana bejarano bernad,7285127 pt,casa,354,pavimento,plano,residencia,social
+14810,onofre calvo-pascual,3638103 ch,casa,326,pavimento,pendiente,residencia,economico
+14811,eric de briones,1108069,casa,326,pavimento,semi plano,residencia,economico
+14812,morena gordillo-franco,,casa,,cemento,semi plano,,
+14812,ramona riquelme cuenca,8597494 pt.,casa,91,cemento,plano,comercio,economico
+14813,jose manuel hernandez huerta,8649860 pt,casa,228,cemento,semi plano,residencia,economico
+14814,felipa abril vargas,,,,tierra,semi plano,,
+14814,macarena eufemia llanos herrera,,casa,312,tierra,plano,residencia,economico
+14815,porfirio peinado garcía,53548 or.,casa,,tierra,semi plano,residencia,
+14816,andrés del olivera,,,,tierra,semi plano,,
+14817,marisela girón exposito,1074419 ch,casa,105,tierra,semi plano,residencia,economico
+14817,ruy íñigo olmedo domínguez,6613781 pt,casa,123,empedrado,pendiente,residencia,economico
+14818,ibán barceló álamo,,,,empedrado,semi plano,,
+14818,samanta olmedo bayón,5570029 pt,casa,101,cemento,pendiente,residencia,economico
+14819,ulises valero clemente,,,,,,,
+14901,tiburcio ovidio jover castelló,5128866 pt.,casa,54,cemento,pendiente,residencia,economico
+14902,isa moll prats,,casa,73,cemento,plano,residencia,economico
+14903,abilio feliciano carrillo lerma,4104032 ch,casa,156,cemento,semi plano,residencia,economico
+14903,catalina guerra pavón,,casa,108,tierra,semi plano,residencia,economico
+14904,ruth cano casanova,5578787 pt,casa,123,tierra,semi plano,residencia,economico
+14905,anastasio iglesias flores,,,,,,,
+14906,abilio feliu gelabert,6655505 pt,casa,50,,semi plano,residencia,economico
+14906,luis cervantes-pont,3994160 pt,casa,197,tierra,pendiente,residencia,economico
+14907,teo sastre moya,6616124 pt,casa,75,tierra,semi plano,residencia,economico
+14908,virginia puga prado,5576407 pt,casa,54,tierra,semi plano,residencia,economico
+14909,inés castrillo merino,,,,,,,
+14910,amarilis torrent trillo,,,,cemento,,,
+14911,marisa maría fernanda téllez barranco,,,,cemento,plano,,
+14912,nayara adoración carnero somoza,6683313 pt,casa,292,tierra,pendiente,residencia,social
+14913,gaspar solano,6655730 pt,casa,62,tierra,semi plano,residencia,economico
+14913,mauricio cuervo lluch,,casa,41,cemento,semi plano,residencia,economico
+14913,juan pablo castro rius,8586416 pt,casa,88,tierra,semi plano,residencia,economico
+14914,gustavo oliva tamarit,,casa,49,tierra,semi plano,residencia,economico
+14915,alex mayol aparicio,1246442 pt,casa,138,tierra,plano,residencia,economico
+14916,maría belén arenas-solís,,casa,,tierra,,,
+14916,toño jenaro sainz martí,5578987 pt,casa,91,tierra,plano,residencia,social
+14917,marc canales monreal,10518379 pt,casa,27,tierra,semi plano,residencia,economico
+14918,amada boada linares,1246442 pt,lote,64,tierra,semi plano,residencia,
+15002,piedad quesada mancebo,,,,tierra,,,
+15002,andrés felipe gárate armas,1246442 pt,casa,64,pavimento,plano,residencia,bueno
+15003,reyes andrés perales,687119 pt,casa,68,pavimento,plano,residencia,economico
+15004,tito del arrieta,,casa,174,pavimento,plano,residencia,social
+15005,che del yáñez,,casa,,pavimento,,,
+15006,anunciación adán arroyo,,casa,,pavimento,,,
+15007,feliciano del huguet,,casa,,pavimento,plano,,
+15008,soledad ros agustín,1419657 pt,casa,86,pavimento,plano,residencia,social
+15009,octavia arnau rosales,,casa,,pavimento,plano,,
+15010,pedro torrijos,8586183,casa,88,pavimento,plano,residencia,economico
+15010,eloísa baró,7509947 ch,casa,86,tierra,pendiente,residencia,bueno
+15011,francisca de solano,,casa,2616,tierra,pendiente,,bueno
+15011,almudena barragán valentín,4099646 ch.,,,tierra,pendiente,,
+15011,gilberto arenas zapata,,casa,34,tierra,plano,residencia,social
+15012,alonso martí,,lote,123,tierra,semi plano,,
+15013,godofredo marti bermudez,1407513 pt,casa,124,tierra,plano,residencia,economico
+15014,elba taboada polo,6592365,,52,cemento,plano,,social
+15014,carmela de pulido,5517483 pt.,casa,67,pavimento,plano,residencia,economico
+15014,balduino elorza morera,1335185 ch.,casa,264,cemento,semi plano,residencia,social
+15015,humberto de escrivá,,casa,,cemento,plano,residencia,economico
+15015,merche arenas-pareja,,,44,,,,
+15015,wilfredo jacinto ballester feijoo,,,,,,,
+15015,gisela berta benítez ballesteros,,,,,,,
+15016,sonia prudencia sola cuadrado,,,,,,,
+15016,esmeralda company,4103925 ch.,casa,62,pavimento,semi plano,residencia,economico
+15016,perlita de moraleda,,,,,,,
+15017,benita elorza-leal,,casa,113,pavimento,semi plano,residencia,economico
+15017,tiburcio sebastian vigil poza,665517 pt.,casa,70,pavimento,semi plano,residencia,economico
+15017,tadeo tomas aller,5576095 pt.,casa,,,pendiente,residencia,economico
+15017,agustín moliner fernandez,5520732 pt.,casa,99,pavimento,pendiente,residencia,economico
+15017,ezequiel bayón-berrocal,,,,,,,
+15017,martirio lourdes vaquero piña,1106624 ch,casa,113,,pendiente,residencia,economico
+15017,herminia lastra galiano,1106820 pt.,casa,115,,plano,residencia,economico
+15017,xiomara fuente vergara,,casa,115,empedrado,semi plano,residencia,economico
+15018,fabián perea gelabert,5517479 pt.,casa,107,empedrado,semi plano,residencia,economico
+15018,adán vilanova,,casa,,empedrado,,,
+15018,beatriz acosta chico,,casa,73,,semi plano,residencia,economico
+15018,calixto borrego,8586205 pt.,casa,48,pavimento,plano,residencia,economico
+15019,cirino cueto-burgos,8586482 pt.,casa,56,piedra,plano,residencia,economico
+15019,calixta mena matas,6585240 ch,casa,56,pavimento,pendiente,residencia,economico
+15020,jesusa de cabrero,1419884 pt.,casa,63,pavimento,plano,residencia,economico
+15020,gonzalo villar pujol,,casa,30,pavimento,plano,residencia,economico
+15021,inocencio ovidio galiano moll,10502941 pt,casa,115,empedrado,pendiente,residencia,economico
+15021,nayara leal,,,,,,,
+15022,tiburcio ramón salom,,casa,22,pavimento,pendiente,residencia,economico
+15022,griselda toledo-sala,5576137 pt,casa,69,pavimento,pendiente,residencia,economico
+15022,elba candela galindo solís,,casa,139,empedrado,pendiente,residencia,economico
+15023,amor escolano gargallo,,casa,,,,,
+15023,nacho cerdán-vilalta,5563651 pt,casa,155,empedrado,pendiente,residencia,economico
+15023,rufino adrián reina gordillo,,lote,267,,,,
+15023,anselma orozco-pujadas,,casa,119,empedrado,pendiente,residencia,economico
+15023,ciro valera ródenas,,casa,103,empedrado,pendiente,residencia,economico
+15023,consuela bas solera,5578870 pt,casa,103,empedrado,semi plano,residencia,economico
+15023,oriana revilla perez,6613839 pt.,casa,101,empedrado,pendiente,residencia,economico
+15023,candelas ríos,5578809 pt,casa,110,empedrado,pendiente,residencia,economico
+15024,leandra olivia leal maza,,,,,,,
+15024,pastora arce coloma,,,,,,,
+15024,damián palomares lledó,8586296 pt,casa,,tierra,pendiente,residencia,economico
+15024,maristela ponce,4106465 ch,casa,,tierra,pendiente,residencia,economico
+15024,melania chaves corbacho,1229129 pt.,lote,94,cemento,semi plano,,
+15024,edelmira robledo-urrutia,1075351 ch.,casa,87,cemento,semi plano,residencia,economico
+15026,clímaco teobaldo fuente cobos,,,,cemento,semi plano,,
+15101,noa de córdoba,5682755 ch.,casa,226,cemento,semi plano,residencia,economico
+15102,leonel jara torrijos,1229129 pt.,casa,83,cemento,,,economico
+15102,estrella badía-amo,4099074 pt.,casa,60,empedrado,semi plano,residencia,economico
+15103,mayte bou cabezas,8640543 pt.,casa,257,empedrado,semi plano,residencia,social
+15103,ainoa haro,,casa,,empedrado,plano,,
+15104,julián del guitart,,casa,,empedrado,semi plano,comercio,
+15105,ricarda de mayoral,1335194 pt.,casa,447,empedrado,pendiente,residencia,social
+15106,salud llorens-carro,10518188 or.,casa,,empedrado,pendiente,residencia,
+15106,jacobo gomez hernández,,casa,35,empedrado,plano,residencia,economico
+15107,aurelia lozano,,casa,,empedrado,,,
+15115,angélica purificación vallejo huerta,1419756 pt.,casa,215,tierra,semi plano,residencia,social
+15115,zoraida cuesta peiró,4097238 ch.,casa,175,tierra,semi plano,residencia,social
+15115,gabino iglesias mínguez,,,,empedrado,semi plano,,
+15116,leocadia galiano barroso,2648564 pt.,casa,174,empedrado,semi plano,residencia,economico
+15116,felix sola,,casa,20,empedrado,semi plano,residencia,social
+15117,ramón tomé pont,5576149 pt.,casa,33,empedrado,semi plano,comercio,social
+15118,gil martin,5517499 pt.,casa,397,empedrado,semi plano,residencia,social
+15118,lucas sáenz uriarte,,casa,160,empedrado,semi plano,residencia,social
+15119,sancho llabrés gallo,,casa,81,empedrado,semi plano,residencia,social
+15119,jose manuel juárez moreno,,casa,91,empedrado,semi plano,residencia,social
+15120,micaela de fuentes,7301035 pt,casa,239,empedrado,plano,residencia,social
+15121,aurelio león campoy,1075350 ch.,casa,44,empedrado,semi plano,residencia,economico
+15122,noé de borrego,55171139 pt.,casa,141,empedrado,semi plano,residencia,economico
+15128,gastón méndez,5517439 pt.,casa,,empedrado,semi plano,residencia,social
+15128,sara del lastra,,casa,124,empedrado,pendiente,residencia,economico
+15129,amarilis acedo rosales,5576176 pt,casa,149,empedrado,,residencia,social
+15130,ale cerezo,,casa,,empedrado,,,
+15131,ruy del seguí,,casa,105,empedrado,semi plano,residencia,economico
+15132,olalla avilés nieto,10518302 pt.,casa,,empedrado,,,economico
+15133,juanita del falcón,,casa,,empedrado,plano,,
+15133,antonio herberto carrera zapata,,casa,,empedrado,,,
+15134,pedro armengol múgica,3660667 pt.,casa,151,cemento,semi plano,residencia,economico
+15134,eulalia águila,5578753 pt.,casa,135,empedrado,plano,residencia,social
+15135,pepita vendrell rosado,1407507 pt.,casa,135,empedrado,pendiente,residencia,economico
+15136,lorenza jódar gascón,1246497 pt,casa,149,empedrado,pendiente,residencia,economico
+15140,juana mínguez-bertrán,,casa,149,empedrado,plano,residencia,economico
+15201,reina emiliana acero arellano,,casa,135,empedrado,semi plano,residencia,social
+15202,natalio de aroca,3707754 pt.,casa,129,empedrado,plano,residencia,economico
+15203,magdalena del peñas,,casa,136,empedrado,semi plano,residencia,economico
+15204,débora arroyo pastor,5578655 pt.,casa,274,empedrado,pendiente,residencia,economico
+15205,josé mari esteban torres,44112055 ch,casa,98,tierra,plano,residencia,economico
+15207,roberta nicolás,10518013 pt.,casa,89,tierra,plano,residencia,economico
+15208,amada conde rosselló,4112055 ch.,casa,68,tierra,plano,residencia,economico
+15208,celso de somoza,682974 or.,casa,169,tierra,plano,residencia,social
+15209,virgilio rios moreno,6613766 pt.,casa,39,empedrado,plano,residencia,social
+15210,cruz donoso román,5578834 pt.,casa,141,tierra,pendiente,residencia,social
+15211,édgar bautista hervia,5578902 pt.,casa,384,tierra,semi plano,residencia,economico
+15212,natividad aguirre gual,8586355 ch.,casa,28,cemento,plano,residencia,social
+15212,maximino isern alonso,12405931 pt,casa,25,cemento,plano,residencia,social
+15213,carina pacheco roma,,equipamiento,3600,cemento,plano,residencia,bueno
+15213,ovidio de cabanillas,,casa,,cemento,,residencia,
+15213,gobierno autonomo municipal de samaipata,,casa,4086,cemento,plano,,economico
+15214,victor manuel anguita cabrero,6655335 pt.,casa,95,cemento,semi plano,comercio,social
+15215,gerónimo escrivá riba,,casa,417,cemento,semi plano,residencia,economico
+15216,calisto enríquez galván,,casa,179,cemento,semi plano,residencia,social
+15216,gracia de sarabia,687163 or.,casa,230,tierra,plano,residencia,social
+15217,hernán duque,5643624 pt.,casa,166,empedrado,semi plano,,social
+15217,marina iniesta franch,,casa,24,cemento,plano,residencia,social
+15217,isidro múgica marquez,1430902 pt.,casa,196,cemento,plano,residencia,economico
+15217,ricarda aparicio prieto,,casa,24,cemento,plano,residencia,social
+15217,lope casanova aragonés,1229129 pt.,casa,180,cemento,pendiente,residencia,economico
+15218,bartolomé dan lago corbacho,5001-15015ja pt.,casa,18,cemento,plano,residencia,economico
+15219,socorro cordero salas,133599 pt.,casa,99,cemento,plano,residencia,social
+15221,dionisia peinado,,,103,cemento,semi plano,,
+15222,íngrid garmendia-niño,5517474 pt.,casa,74,cemento,pendiente,residencia,economico
+15222,celso carranza lillo,6683296 pt,casa,77,cemento,pendiente,residencia,economico
+15223,jose manuel parra vara,,casa,,cemento,pendiente,,
+15224,noemí nogués carrillo,,casa,,cemento,plano,,
+15225,lupe guerra-huguet,8597911 pt.,casa,133,cemento,pendiente,residencia,economico
+15226,julián llorente sainz,,casa,,tierra,,residencia,
+15232,dionisia de amaya,6583678 pt.,casa,185,cemento,semi plano,residencia,economico
+15232,lalo bolaños rios,5576483 pt.,casa,73,cemento,pendiente,residencia,economico
+15240,otilia manso,3626864 ch.,casa,47,cemento,pendiente,residencia,social
+15240,genoveva tello,3707528 pt.,casa,88,cemento,pendiente,residencia,economico
+15240,augusto toro santamaria,,casa,223,cemento,pendiente,residencia,social
+15240,chuy josé maría rosales márquez,,casa,184,cemento,semi plano,,bueno
+15241,hermenegildo barranco iriarte,5578747 pt,casa,,cemento,pendiente,residencia,economico
+15242,lucila losada,1073788 ch,casa,99,cemento,plano,residencia,economico
+15301,galo alonso bermejo,5490651 pt.,casa,45,cemento,plano,residencia,economico
+15302,leticia del toro,,casa,,cemento,pendiente,,
+15303,fernando alemán-alcalá,,casa,,cemento,pendiente,,
+15304,gobierno autonomo municipal de samaipata,,equipamiento,1345,cemento,plano,residencia,bueno
+15305,gobierno autonomo municipal de samaipata,,equipamiento,342,cemento,plano,,economico
+15306,nicolás roldán higueras,,casa,,tierra,plano,,
+15307,iris quevedo piquer,,casa,,tierra,semi plano,,
+15308,lino clavero diez,6683280 pt,casa,126,tierra,plano,residencia,social
+15309,gobierno autonomo municipal de samaipata,8340212 lpz,equipamiento,178,empedrado,plano,residencia,bueno
+15310,celestino adadia serna,,,,,,,
+15311,ascensión borrego perea,682864 or.,casa,146,cemento,plano,comercio,social
+15312,sonia macias palomares,6655388 pt.,casa,193,cemento,plano,residencia,economico
+15313,gil durán álvarez,,,,,,,
+15313,marisol cuesta aguilar,5517523 pt,casa,64,cemento,plano,residencia,economico
+15314,tamara echeverría castelló,,casa,921,cemento,plano,residencia,social
+15314,cándida del suárez,5676385 pt,casa,,cemento,plano,residencia,social
+15315,arcelia de palacio,3707884 pt.,casa,,cemento,plano,residencia,social
+15317,paola del jaume,6657816 pt.,casa,,cemento,semi plano,residencia,social
+15318,maricruz barceló rebollo,1151173 pt.,casa,193,cemento,semi plano,residencia,social
+15319,reyes zabaleta haro,4092921 ch.,casa,128,cemento,semi plano,residencia,social
+15320,leopoldo mateu-villalba,5517480 pt,casa,188,cemento,semi plano,residencia,social
+15321,ildefonso sola jordán,687163 or.,casa,157,tierra,plano,residencia,social
+15321,esteban galan buendía,,sedez,154,cemento,plano,residencia,social
+15322,rosaura conesa pons,7285127 pt,casa,354,pavimento,plano,residencia,social
+15401,paca sanmartín-baños,3638103 ch,casa,326,pavimento,pendiente,residencia,economico
+15402,aroa cazorla-villar,1108069,casa,326,pavimento,semi plano,residencia,economico
+15403,maxi morán sureda,,casa,,cemento,semi plano,,
+15404,horacio del duran,8597494 pt.,casa,91,cemento,plano,comercio,economico
+15405,renata nicolau peñas,8649860 pt,casa,228,cemento,semi plano,residencia,economico
+15406,rodolfo hervia tolosa,,,,tierra,semi plano,,
+15406,jesusa coll prats,,casa,312,tierra,plano,residencia,economico
+15407,ignacia osuna bárcena,53548 or.,casa,,tierra,semi plano,residencia,
+15407,custodio gargallo-ramis,,,,tierra,semi plano,,
+15407,josé mari planas-ávila,1074419 ch,casa,105,tierra,semi plano,residencia,economico
+15407,francisco jose mendez,6613781 pt,casa,123,empedrado,pendiente,residencia,economico
+15407,francisco aznar becerra,,,,empedrado,semi plano,,
+15409,nydia ríos-huguet,5570029 pt,casa,101,cemento,pendiente,residencia,economico
+15410,benito garcés landa,,,,,,,
+15411,osvaldo andrade cantón,5128866 pt.,casa,54,cemento,pendiente,residencia,economico
+15501,anselmo de casares,,casa,73,cemento,plano,residencia,economico
+15501,maría josé madrid campillo,4104032 ch,casa,156,cemento,semi plano,residencia,economico
+15502,clímaco águila sosa,,casa,108,tierra,semi plano,residencia,economico
+15502,elías pujol otero,5578787 pt,casa,123,tierra,semi plano,residencia,economico
+15503,olegario del mateos,,,,,,,
+15504,trinidad aramburu,6655505 pt,casa,50,,semi plano,residencia,economico
+15505,luisa arellano-gutiérrez,3994160 pt,casa,197,tierra,pendiente,residencia,economico
+15505,palmira gallego rodríguez,6616124 pt,casa,75,tierra,semi plano,residencia,economico
+15505,ciriaco cristóbal mayol quintero,5576407 pt,casa,54,tierra,semi plano,residencia,economico
+15505,anselmo ballesteros rovira,,,,,,,
+15505,tatiana del aguado,,,,cemento,,,
+15505,abilio botella-sierra,,,,cemento,plano,,
+15506,eulalia salomé baena uribe,6683313 pt,casa,292,tierra,pendiente,residencia,social
+15507,adelina calzada gárate,6655730 pt,casa,62,tierra,semi plano,residencia,economico
+15508,corona palacio valle,,casa,41,cemento,semi plano,residencia,economico
+15509,ismael peiró-gámez,8586416 pt,casa,88,tierra,semi plano,residencia,economico
+15510,elvira godoy santana,,casa,49,tierra,semi plano,residencia,economico
+15510,alfredo piñeiro malo,1246442 pt,casa,138,tierra,plano,residencia,economico
+15510,juan bautista ros quesada,,casa,,tierra,,,
+15510,román del anglada,5578987 pt,casa,91,tierra,plano,residencia,social
+15510,pascuala coronado,10518379 pt,casa,27,tierra,semi plano,residencia,economico
+15511,leire paniagua acevedo,1246442 pt,lote,64,tierra,semi plano,residencia,
+15540,sofía jiménez soriano,,,,tierra,,,
+15540,hector izaguirre donoso,1246442 pt,casa,64,pavimento,plano,residencia,bueno
+15601,rocío salgado palomo,687119 pt,casa,68,pavimento,plano,residencia,economico
+15602,lucho reguera heredia,,casa,174,pavimento,plano,residencia,social
+15602,viviana bello alberdi,,casa,,pavimento,,,
+15603,esmeralda simó,,casa,,pavimento,,,
+15603,alexandra del nieto,,casa,,pavimento,plano,,
+15603,francisca maría rosado serna,1419657 pt,casa,86,pavimento,plano,residencia,social
+15603,artemio martinez-baeza,,casa,,pavimento,plano,,
+15604,vicenta grau naranjo,8586183,casa,88,pavimento,plano,residencia,economico
+15605,cintia corbacho luz,7509947 ch,casa,86,tierra,pendiente,residencia,bueno
+15606,josé manuel equipamiento izaguirre,,casa,2616,tierra,pendiente,,bueno
+15606,augusto del corominas,4099646 ch.,,,tierra,pendiente,,
+15608,néstor milla,7509947 ch,casa,86,tierra,pendiente,residencia,bueno
+15609,guadalupe de peralta,,casa,2616,tierra,pendiente,,bueno
+15610,abraham espejo,4099646 ch.,,,tierra,pendiente,,
+15611,nidia mate benito,,casa,34,tierra,plano,residencia,social
+15611,reyes córdoba folch,,lote,123,tierra,semi plano,,
+15612,abraham torrijos seco,1407513 pt,casa,124,tierra,plano,residencia,economico
+15612,sabina baró ariza,6592365,,52,cemento,plano,,social
+15612,amado sarmiento diez,5517483 pt.,casa,67,pavimento,plano,residencia,economico
+15613,jose ramón juan antonio macias pinedo,1335185 ch.,casa,264,cemento,semi plano,residencia,social
+15614,lupe mas-cárdenas,empedrado,lote,,tierra,pendiente,residencia,bueno
+15614,darío costa esteban,,,,tierra,pendiente,,bueno
+15614,elisabet díaz macías,cemento,lote,,tierra,pendiente,,
+15614,xiomara jove tolosa,cemento,lote,,tierra,plano,residencia,social
+15614,pascual del escudero,,,,tierra,semi plano,,marginal
+15614,vasco grau acevedo,cemento,lote,,tierra,plano,residencia,economico
+15615,cristian verdugo carro,cemento,lote,,cemento,plano,,social
+15616,emilio zamorano arce,cemento,lote,,pavimento,plano,residencia,economico
+19901,gobierno autonomo municipal de samaipata,cemento,equipamiento,,cemento,semi plano,residencia,social
+26906,cerrado,,casa,,,,,
+26903,agustin mamaní saavedra,6613789 cah.,casa,152,tierra,pendiente,residencia,economico
+26904,faustino mamaní zenteno,6655392 pt.,casa,105,tierra,pendiente,residencia,economico
+26902,cerrado,,casa,,tierra,pendiente,,
+26910,cerrado,,casa,,tierra,pendiente,,
+26911,crmen romero lazcno,1058752 cah.,lote,99,tierra,pendiente,residencia,
+26907,felimon chiri cruz y sra.,5578667 pt.,casa,235,tierra,pendiente,residencia,economico
+26908,jose caballero lopez,1419771 pt.,casa,129,cemento,pendiente,residencia,economico
+26909,carmelo mamani lezano,5578668 pt.,casa,78,cemento,semi plano,residencia,economico
+26905,tomas llanque rios,5578504 pt.,casa,200,cemento,semi plano,residencia,economico
+26901,cerrado,,casa,,cemento,pendiente,,
+28305,vicente chiri (finado),,casa,161,cemento,pendiente,residencia,economico
+28302,barbara flores galvan,5128913 pt.,casa,64,cemento,semi plano,residencia,social
+28304,hermogenes gimenez,,casa,245,cemento,semi plano,residencia,economico
+28303,luis muñoz poveda y sra.,1419685 pt.,casa,86,cemento,pendiente,residencia,economico
+28308,mario suarez luna,4092112 cah.,casa,128,cemento,pendiente,residencia,social
+28307,cecilia suarez flores,10500069 pt.,casa,177,cemento,,comercio,economico
+28306,cerrado,,casa,,cemento,,,
+28309,marcos yapura padilla,8586555 pt.,casa,172,cemento,pendiente,residencia,social
+28311,victor mamaní saavedra,1419309 pt.,casa,50,tierra,pendiente,residencia,social
+27306,agustin mamaní saavedra,66133789 pt.,casa,321,tierra,pendiente,residencia,economico
+27305,simon choque cruz,5188776 pt.,casa,170,tierra,pendiente,residencia,social
+27304,cerrado,,casa,,cemento,plano,,
+27303,eusebia berrios coca de lira,6655432 pt.,casa,208,cemento,pendiente,comercio,social
+27302,ernesto mundocorre colque,5578962 pt.,casa,97,cemento,pendiente,residencia,economico
+26301,hilaria condori mamani de marcni,1419810 pt.,casa,155,cemento,pendiente,residencia,social
+26302,leandro marcni ambar,5576048 pt.,casa,147,cemento,pendiente,residencia,economico
+26303,felix torrez pacheco,1229196 pt.,casa,1064,cemento,pendiente,residencia,social
+26304,crispin marcni condori,1419691 pt.,casa,172,cemento,semi plano,residencia,economico
+26306,csimiro ramos sandi y sra.,1263519 pt.,casa,1025,cemento,pendiente,residencia,economico
+26307,fabian lezano,,casa,501,cemento,pendiente,residencia,social
+26308,cerrado,,casa,410,tierra,pendiente,residencia,economico
+26305,cerrado,,lote,224,tierra,pendiente,,
+24935,cerrado,,lote,345,tierra,pendiente,,
+24933,bernabe salinas arcienega,1246497 pt.,lote,345,tierra,plano,,
+24932,edmundo ckoso,,casa,83,tierra,plano,residencia,social
+24931,patricia colque lezano,4108193 cah.,casa,58,cemento,pendiente,residencia,social
+24934,zenon mamaní gordillo,8586187 pt.,casa,548,cemento,plano,residencia,economico
+24936,alicia cyo d avendaño,,casa,114,cemento,pendiente,comercio,economico
+24937,sebastian negrete romero,,casa,173,cemento,pendiente,residencia,economico
+24938,cerrado,,casa,,cemento,plano,,
+28110,eloy layme,,casa,47,cemento,plano,residencia,economico
+28111,enrique bohoquez montaño,1189225 pt.,casa,57,cemento,plano,comercio,economico
+28107,francisco laime suyo,1419218 pt.,casa,417,cemento,semi plano,residencia,social
+28108,pablo zenteno mamani,8629619 pt.,casa,19,cemento,plano,residencia,economico
+28121,cerrado,,casa,102,tierra,plano,,
+28109,enrique bohoquez montaño,1189225 pt.,casa,3199,tierra,semi plano,residencia,economico
+28104,ciciliano warcya ckoso y sra.,6616574 pt.,casa,48,tierra,pendiente,residencia,social
+28102,cerrado,,,,,,,
+28120,vicente mamaní laime,15578951 pt.,casa,429,tierra,semi plano,residencia,economico
+28119,francisco montes muñoz,1419755 pt.,casa,142,tierra,semi plano,residencia,social
+28112,francisco montes muñoz,1419755 pt.,lote,1993,tierra,pendiente,,
+28115,sixto jancko cpurata,12834245 cah.,casa,19,tierra,pendiente,residencia,social
+28117,dominga rios gomez,6616318 pt.,casa,62,tierra,pendiente,residencia,economico
+28123,cerrado,,,,,,,
+28124,margarita alata jati,6613943 pt.,casa,124,tierra,pendiente,residencia,social
+28109,guido león oropeza,71172595 pt.,lote,2885,tierra,muy pendiente,,
+28103,cerrado,,,,,,,
+28105,cerrado,,,,,,,
+28006,crispin morocko alave,5578584 pt.,casa,62,cemento,plano,comercio,social
+28001,gregorio jurado cnaviri,5128883 t.,casa,128,cemento,plano,comercio,social
+28002,francisco soto sierra,1013753 cah.,casa,115,cemento,plano,comercio,social
+28017,modesto aramayo ckoso,1419446 pt.,casa,84,cemento,plano,residencia,economico
+28015,justino layme lopez,5517481 pt.,casa,30,cemento,plano,residencia,social
+28014,victor laime navarro,1419575 pt.,casa,205,cemento,plano,comercio,social
+28003,geronimo jurado,,casa,79,tierra,plano,residencia,social
+28004,dionicio mamaní soliz,5563379 pt.,lote,120,tierra,plano,,
+28005,pablo mamaní cruz,5001-140166 u,casa,89,tierra,semi plano,residencia,social
+28007,ruperto toroya colque,,casa,179,tierra,semi plano,residencia,economico
+28008,pedro huarcya villc,1419605 pt.,casa,119,tierra,semi plano,residencia,economico
+28009,cerrado,,lote,100,tierra,semi plano,,
+28010,cerrado,,lote,,tierra,semi plano,,
+28011,cerrado,,casa,,,,,
+28012,guido leon oropeza,3111740 or,casa,20,pavimento,plano,residencia,economico
+28019,gregoria inc sacc,8586553 pt,casa,35,,plano,residencia,
+28018,cerrado,,,,,,,
+25627,cerrado,,,,,,,
+25626,sebastian soraide diaz,1419269 pt.,casa,89,tierra,muy pendiente,comercio,economico
+24001,maria soraide balczar,8649860 pt,casa,167,tierra,plano,residencia,economico
+24003,cerrado,,casa,,tierra,,,
+24004,iglesia union cristiana,,iglesia,279,pavimento,plano,,economico
+23111,cerrado,,casa,,,,residencia,
+23101,cerrado,,casa,,,,,
+23102,damian mamani cruz,8586285 pt,casa,85,tierra,plano,residencia,economico
+23103,justino alvarado espadero,2777574 or,casa,103,tierra,muy pendiente,residencia,economico
+23104,demetria cruz cnsejo,6655394 pt,casa,48,tierra,semi plano,residencia,economico
+23108,cerrado,,casa,,,,,
+23105,cerrado,,,,,,,
+23107,cerrado,,,,,,,
+23106,mariano layme navarro,1419592 pt,casa,107,tierra,semi plano,residencia,economico
+23110,ines romero quevedo,682901 or,,580,,semi plano,residencia,economico
+23109,cerrado,,,,,,,
+20405,teodora ciza layme de perez,6583563 pt,casa,180,tierra,plano,residencia,economico
+20402,antonio inc villc,,,29,,,,
+20401,cerrado,,casa,,pavimento,,,
+20403,cerrado,,casa,,pavimento,,,
+23001,cerrado,,casa,,pavimento,,,
+23002,leandro ibañez guarayo,6616125 pt.,casa,161,pavimento,pendiente,residencia,economico
+23007,cerrado,,casa,,pavimento,,,
+23006,ines romero quebedo,682901 or,casa,301,pavimento,pendiente,residencia,economico
+23003,cerrado,,casa,,tierra,,,
+23004,valentina ramos ferrutino,687162 or,casa,340,tierra,pendiente,residencia,economico
+23008,valentina ramos ferrutino,687162 or.,casa,132,tierra,pendiente,residencia,economico
+23009,cerrado,,casa,,,,,
+23005,cerrado,,casa,,,,,
+20309,cerrado,,casa,,pavimento,,,
+20308,francisco parada kalani,370415 pt.,casa,111,pavimento,semi plano,residencia,economico
+20304,layme quispe,3561794 cabba.,casa,220,pavimento,semi plano,residencia,economico
+20303,martha esclada,6583671 pt.,casa,157,pavimento,semi plano,residencia,economico
+20307,maxima cbrebra,,casa,252,pavimento,semi plano,residencia,economico
+20301,gregorio lezano quispe,5578631 pt.,casa,112,pavimento,pendiente,residencia,social
+20306,primitivo laime navarro,4104048 pt,casa,23,pavimento,semi plano,residencia,economico
+20305,justino yerba puma,1148450 cah,casa,109,pavimento,semi plano,residencia,social
+22908,nicolas yerba puma,6128929 pt.,casa,86,pavimento,pendiente,residencia,social
+22914,justina parda luna,8586538 pt.,casa,79,pavimento,pendiente,comercio,normal
+22907,cerrado,,,,,,,
+22905,saturna ramos inc,6517493 pt.,casa,130,tierra,semi plano,,normal
+22910,cerrado,,casa,,tierra,,,
+22909,milarion layme jahy,5591753 pt.,casa,75,tierra,pendiente,residencia,normal
+22901,marcelina mamani vargas,85886175 pt.,casa,205,tierra,semi plano,residencia,normal
+22902,gobierno autonomo municipal de samaipata,,equipamiento,147,,,,
+22903,cerrado,,,,,,,
+22911,luisa crdoso cbo de rojas,6616287 pt.,casa,210,tierra,,residencia,normal
+22912,osvaldo rojas,,lote,111,cemento,semi plano,residencia,normal
+22913,crlos villanuevo cnaviri,8640470 pt.,casa,128,tierra,semi plano,residencia,normal
+22906,cerrado,,,,,,,
+22904,cerrado,,casa,,,,,
+26001,alberto cbrera parada,5578856 pt.,casa,231,tierra,pendiente,,normal
+26003,ajunta cñari mamani de cruz,6655440 pt.,casa,71,tierra,pendiente,residencia,normal
+26004,marcelina plaza viñola,1419799 pt.,casa,76,pavimento,plano,residencia,social
+26005,gobierno autonomo municipal de samaipata,,equipamiento,,pavimento,,,
+26006,dorotea inc villc de cruz,6655409 pt,casa,58,tierra,semi plano,residencia,normal
+26101,cerrado,,,,tierra,,,
+26105,cerrado,,,,pavimento,,,
+26104,severina parada clani,1419875 pt.,casa,116,cemento,pendiente,comercio,social
+26108,cerrado,,,,cemento,,,
+26107,esteban villacorta,1144512 pt.,casa,332,cemento,plano,residencia,social
+26106,cerrado,,,,cemento,,,
+26109,cerrado,,,,,,,
+26116,cerrado,,,,,,,
+26115,erasmo cisa,,casa,117,cemento,semi plano,residencia,normal
+26114,albertina rios y victor parda mamani,3649509 cah.,casa,90,cemento,plano,residencia,social
+26113,cerrado,,,,cemento,,,
+26112,fidel cbrera saavedra,5578814 pt.,casa,33,cemento,semi plano,residencia,normal
+26126,severina parada clani,1419875 pt.,casa,22,cemento,plano,residencia,economico
+26111,cerrado,,,51,tierra,,residencia,
+26110,victor parada mamaní,3649504 cah.,lote,80,tierra,plano,,
+26118,cerrado,,,,tierra,,,
+26120,manuela mamani lopez,6583654 pt.,casa,109,tierra,pendiente,,economico
+26119,jhonny esclada mamani,8640341 pt.,casa,51,tierra,plano,residencia,social
+26117,rodolfo padilla ferrufino,1229189 pt.,casa,78,cemento,plano,residencia,economico
+26127,eugenia villacorta mamani,682878 or.,casa,113,cemento,plano,residencia,economico
+26121,cerrado,,,,,,,
+26123,cerrado,,,,,,,
+26102,frigido rivas diaz,1045952 pt.,casa,,tierra,plano,,economico
+26103,andrea quispe yerva,8586213 pt.,casa,26,pavimento,pendiente,residencia,economico
+26125,victor cruz rios,1077181 pt.,lote,,,,,economico
+26209,onorato cruz pacja,5578528 pt,casa,93,cemento,plano,residencia,economico
+26207,cerrado,,,,cemento,,,
+26205,cerrado,,casa,,cemento,,,
+26203,cerrado,,casa,,cemento,,,
+26202,alberto cbrera parada,5578856 pt.,casa,24,cemento,plano,residencia,economico
+26204,cnnino reyes velasquez,6657361 pt.,casa,127,pavimento,semi plano,residencia,economico
+26201,cerrado,,,,,,,
+25902,gobierno autonomo municipal de samaipata,,equipamiento,,,,,
+25908,cerrado,1407531 pt.,,,,,,
+25905,francisco parada kalani,3704715 pt.,casa,78,,,,
+25904,fermin cornejo milabres,,casa,224,tierra,semi plano,residencia,economico
+25903,cerrado,5576480 pt.,,,,,,
+25909,cerrado,,,,,,,
+25906,victor chirari garcia,1246516 pt.,casa,,,pendiente,residencia,social
+25907,toribia mamani mendoza,8586898 pt.,casa,122,pavimento,plano,residencia,economico
+25914,dionicia mamani villacorta,,casa,139,pavimento,plano,residencia,economico
+25920,cerrado,,,,,,,
+25919,donato mamani suyo,4102636 cah,casa,55,pavimento,plano,residencia,economico
+25918,primo parada diaz,4092921 cah.,casa,36,,plano,residencia,economico
+25921,jose layme mamani,1430902 pt.,casa,46,,plano,residencia,economico
+25922,cerrado,,,,,,,
+25916,antonia ramos ferrufino,,casa,33,cemento,plano,,
+25915,cerrado,68286 or.,,,,,,
+25910,cerrado,,,,,,,
+27001,jasinto sacc cñari,5128856 pt.,casa,110,pavimento,plano,residencia,economico
+27002,margarita barrozo portillo,5573401 pt.,casa,733,tierra,plano,residencia,economico
+27013,marcelino uzuna,6592365,,52,cemento,plano,,social
+27014,saturnina layme pac hinojosa,5517483 pt.,casa,67,pavimento,plano,residencia,economico
+27004,damiana negrete,1335185 cah.,casa,264,cemento,semi plano,residencia,social
+27018,ana maria rivas torrez,,casa,,cemento,plano,residencia,economico
+27016,rodolfo padilla ferrufino,,,44,,,,
+27023,cerrado,,,,,,,
+24513,cerrado,,,,,,,
+24503,cerrado,,,,,,,
+24504,francisc torres paisi,4103925 cah.,casa,62,pavimento,semi plano,residencia,economico
+24505,cerrado,,,,,,,
+24506,silveria rivas,,casa,113,pavimento,semi plano,residencia,economico
+24501,josefina choque torrez,665517 pt.,casa,70,pavimento,semi plano,residencia,economico
+24510,gabino bautista villacolta,5576095 pt.,casa,,,pendiente,residencia,economico
+24511,paulina velazquez mamani,5520732 pt.,casa,99,pavimento,pendiente,residencia,economico
+24514,cerrado,,,,,,,
+24512,paulino chucmani mamani,1106624 cah,casa,113,,pendiente,residencia,economico
+24509,isaac raya clani,1106820 pt.,casa,115,,plano,residencia,economico
+24515,gregorio montaño lopez,,casa,115,empedrado,semi plano,residencia,economico
+23502,aniceto mamani poma,5517479 pt.,casa,107,empedrado,semi plano,residencia,economico
+23503,cerrado,,casa,,empedrado,,,
+23505,sixto villc morales,,casa,73,,semi plano,residencia,economico
+23506,martina mamani acho de lopez,8586205 pt.,casa,48,pavimento,plano,residencia,economico
+23507,simon perez condori,8586482 pt.,casa,56,empedrado,plano,residencia,economico
+23504,gregorio perez raya,6585240 cah,casa,56,pavimento,pendiente,residencia,economico
+23510,gregorio lopez cruz,1419884 pt.,casa,63,pavimento,plano,residencia,economico
+23501,german lopez cruz,,casa,30,pavimento,plano,residencia,economico
+23508,florentino sangreri,10502941 pt,casa,115,empedrado,pendiente,residencia,economico
+23401,cerrado,,,,,,,
+23402,romulo partillo,,casa,22,pavimento,pendiente,residencia,economico
+23403,jacinto portillo,5576137 pt,casa,69,pavimento,pendiente,residencia,economico
+23406,german raya czani,,casa,139,empedrado,pendiente,residencia,economico
+23405,cerrado,,casa,,,,,
+23404,ramon onza otrillas,5563651 pt,casa,155,empedrado,pendiente,residencia,economico
+26402,german raya clani,,lote,267,,,,
+24301,gregorio raya clani,,casa,119,empedrado,pendiente,residencia,economico
+21501,julian mamani raya,,casa,103,empedrado,pendiente,residencia,economico
+20501,clemente portillo perez,5578870 pt,casa,103,empedrado,semi plano,residencia,economico
+23201,elvira mamani raya- angel cruz chiri,6613839 pt.,casa,101,empedrado,pendiente,residencia,economico
+22601,manuel villc corta guarcya,5578809 pt,casa,110,empedrado,pendiente,residencia,economico
+21801,cerrado,,,,,,,
+21901,cerrado,,,,,,,
+22001,eduardo mamani janto,8586296 pt,casa,,tierra,pendiente,residencia,economico
+22002,getrudis laime puma,4106465 cah,casa,,tierra,pendiente,residencia,economico
+26612,lorenzo cntón galan,6613789 cah.,casa,152,tierra,pendiente,residencia,economico
+26603,adelina valls cnet,6655392 pt.,casa,105,tierra,pendiente,residencia,economico
+26602,eulalia del galindo,,casa,,tierra,pendiente,,
+26615,tania ctalán galván,,casa,,tierra,pendiente,,
+26614,abraham girón-soler,1058752 cah.,lote,99,tierra,pendiente,residencia,
+26601,erasmo gibert quevedo,5578667 pt.,casa,235,tierra,pendiente,residencia,economico
+26613,ana belén mayo correa,1419771 pt.,casa,129,cemento,pendiente,residencia,economico
+26611,valentina enríquez montalbán,5578668 pt.,casa,78,cemento,semi plano,residencia,economico
+26605,pastor querol verdugo,5578504 pt.,casa,200,cemento,semi plano,residencia,economico
+26609,andrés saavedra cstelló,,casa,,cemento,pendiente,,
+26608,juliana márquez huguet,,casa,161,cemento,pendiente,residencia,economico
+26607,áfric fernandez clatayud,5128913 pt.,casa,64,cemento,semi plano,residencia,social
+26606,crlito domínguez cortes,,casa,245,cemento,semi plano,residencia,economico
+26618,heliodoro cs sainz,1419685 pt.,casa,86,cemento,pendiente,residencia,economico
+26619,arturo ferrán terrón,4092112 cah.,casa,128,cemento,pendiente,residencia,social
+26617,serafina marcela solano alfaro,10500069 pt.,casa,177,cemento,,comercio,economico
+26604,maría pilar jódar gómez,,casa,,cemento,,,
+26610,verónic crmina riba criado,8586555 pt.,casa,172,cemento,pendiente,residencia,social
+25301,bernardita royo león,1419309 pt.,casa,50,tierra,pendiente,residencia,social
+25312,crlito peñas prado,66133789 pt.,casa,321,tierra,pendiente,residencia,economico
+25311,inmaculada aurora cntero peralta,5188776 pt.,casa,170,tierra,pendiente,residencia,social
+25310,sebastian crnero uriarte,,casa,,cemento,plano,,
+25309,eusebia peñalver abellán,6655432 pt.,casa,208,cemento,pendiente,comercio,social
+25308,fermín amor piña,5578962 pt.,casa,97,cemento,pendiente,residencia,economico
+25306,joaquín duarte lerma,1419810 pt.,casa,155,cemento,pendiente,residencia,social
+25305,vilma de rosado,5576048 pt.,casa,147,cemento,pendiente,residencia,economico
+25317,gaspar alsina orozco,1229196 pt.,casa,1064,cemento,pendiente,residencia,social
+25307,maricruz tejedor pons,1419691 pt.,casa,172,cemento,semi plano,residencia,economico
+25316,maximino del prada,1263519 pt.,casa,1025,cemento,pendiente,residencia,economico
+25315,ruth guardia sevillano,,casa,501,cemento,pendiente,residencia,social
+25302,fermín gimeno aguirre,,casa,410,tierra,pendiente,residencia,economico
+25303,selena nebot montes,,lote,224,tierra,pendiente,,
+25304,daniel soriano-mesa,,lote,345,tierra,pendiente,,
+25314,leoncio yáñez grau,1246497 pt.,lote,345,tierra,plano,,
+25313,macria de santamaría,,casa,83,tierra,plano,residencia,social
+25404,tere alberto urrutia,4108193 cah.,casa,58,cemento,pendiente,residencia,social
+25401,adriana salv,8586187 pt.,casa,548,cemento,plano,residencia,economico
+25402,adán bernad,,casa,114,cemento,pendiente,comercio,economico
+25414,roberta villegas ibañez,,casa,173,cemento,pendiente,residencia,economico
+25415,odalys garcía roma,,casa,,cemento,plano,,
+25403,mar millán pons,,casa,47,cemento,plano,residencia,economico
+20101,poncio osorio pujol,1189225 pt.,casa,57,cemento,plano,comercio,economico
+21402,susanita gargallo domingo,1419218 pt.,casa,417,cemento,semi plano,residencia,social
+21405,heriberto velasco,8629619 pt.,casa,19,cemento,plano,residencia,economico
+21404,diego almansa morata,,casa,102,tierra,plano,,
+21403,cosme ros manzanares,1189225 pt.,casa,3199,tierra,semi plano,residencia,economico
+21401,teo velázquez mas,6616574 pt.,casa,48,tierra,pendiente,residencia,social
+21406,cyetana del menendez,,,,,,,
+21606,bernarda simó vendrell,15578951 pt.,casa,429,tierra,semi plano,residencia,economico
+21604,marcio ropero vila,1419755 pt.,casa,142,tierra,semi plano,residencia,social
+21605,jordana téllez gallo,1419755 pt.,lote,1993,tierra,pendiente,,
+21602,pepita prats torrens,12834245 cah.,casa,19,tierra,pendiente,residencia,social
+21603,clarisa abril tudela,6616318 pt.,casa,62,tierra,pendiente,residencia,economico
+21601,miguel alvarado goñi,,,,,,,
+21704,tecla cerdán novoa,6613943 pt.,casa,124,tierra,pendiente,residencia,social
+21701,brígida rocmora clvo,71172595 pt.,lote,2885,tierra,muy pendiente,,
+21702,jesús abad lago,,,,,,,
+21703,vera salmerón montoya,,,,,,,
+21705,marcial crbajo lorenzo,5578584 pt.,casa,62,cemento,plano,comercio,social
+21706,octavia del álvaro,5128883 t.,casa,128,cemento,plano,comercio,social
+21707,quique seguí-amador,1013753 cah.,casa,115,cemento,plano,comercio,social
+21708,aarón aparicio becerra,1419446 pt.,casa,84,cemento,plano,residencia,economico
+27108,bárbara de bru,5517481 pt.,casa,30,cemento,plano,residencia,social
+27107,palmira solís murcia,1419575 pt.,casa,205,cemento,plano,comercio,social
+27103,rufina marti-baena,,casa,79,tierra,plano,residencia,social
+27102,lorenzo cuéllar huertas,5563379 pt.,lote,120,tierra,plano,,
+27101,danilo hervia,5001-140166 u,casa,89,tierra,semi plano,residencia,social
+27106,nazario diego pallars benavides,,casa,179,tierra,semi plano,residencia,economico
+23711,matilde del ctalá,1419605 pt.,casa,119,tierra,semi plano,residencia,economico
+25529,amador bonilla fonsec,,lote,100,tierra,semi plano,,
+25528,cridad mendizábal,,lote,,tierra,semi plano,,
+27508,flora vila crdona,,casa,,,,,
+27529,rico mayo,3111740 or,casa,20,pavimento,plano,residencia,economico
+27504,mónic molina-pérez,8586553 pt,casa,35,,plano,residencia,
+21102,malena olivera ropero,,,,,,,
+23604,buenaventura vallejo cmacho,,,,,,,
+23618,julia chaves nieto,1419269 pt.,casa,89,tierra,muy pendiente,comercio,economico
+23619,cmilo gutiérrez soto,8649860 pt,casa,167,tierra,plano,residencia,economico
+23620,pascual aurelio cñas ponce,,casa,,tierra,,,
+23611,nilda torralba leon,,iglesia,279,pavimento,plano,,economico
+23612,bautista dani talavera simó,,casa,,,,residencia,
+23613,álvaro cortina peralta,,casa,,,,,
+23614,manu fernandez,8586285 pt,casa,85,tierra,plano,residencia,economico
+23615,natalia muñoz anaya,2777574 or,casa,103,tierra,muy pendiente,residencia,economico
+23616,tatiana morales palomares,6655394 pt,casa,48,tierra,semi plano,residencia,economico
+23617,imelda navas,,casa,,,,,
+23601,guadalupe de andreu,,,,,,,
+23602,gabriela nuñez,,,,,,,
+23603,cndelas romero,1419592 pt,casa,107,tierra,semi plano,residencia,economico
+23605,flor cbrera cres,682901 or,,580,,semi plano,residencia,economico
+23606,maite vargas roldan,,,,,,,
+23607,octavio clemente,6583563 pt,casa,180,tierra,plano,residencia,economico
+23609,balduino pastor luque,,,29,,,,
+23610,luís de barrena,,casa,,pavimento,,,
+23608,hector prat-río,,casa,,pavimento,,,
+26507,dionisio cervantes barranco,,casa,,pavimento,,,
+26506,remedios estefanía montesinos ponce,6616125 pt.,casa,161,pavimento,pendiente,residencia,economico
+26503,chelo acedo-corominas,,casa,,pavimento,,,
+26502,tecla de manuel,682901 or,casa,301,pavimento,pendiente,residencia,economico
+26501,victor manuel del cstilla,,casa,,tierra,,,
+24203,noa ballesteros pozo,687162 or,casa,340,tierra,pendiente,residencia,economico
+24201,nicodemo humberto fuster pina,687162 or.,casa,132,tierra,pendiente,residencia,economico
+24204,clotilde pinilla,,casa,,,,,
+24202,paloma boada-arnal,,casa,,,,,
+28410,jose antonio moles,,casa,,pavimento,,,
+28407,vera daza taboada,370415 pt.,casa,111,pavimento,semi plano,residencia,economico
+28406,ale talavera soto,3561794 cabba.,casa,220,pavimento,semi plano,residencia,economico
+28412,odalys zoraida vázquez peiró,6583671 pt.,casa,157,pavimento,semi plano,residencia,economico
+28405,basilio esteve-llopis,,casa,252,pavimento,semi plano,residencia,economico
+28404,eloísa parejo donaire,5578631 pt.,casa,112,pavimento,pendiente,residencia,social
+28403,bruno giménez luz,4104048 pt,casa,23,pavimento,semi plano,residencia,economico
+28402,matilde suarez coronado,1148450 cah,casa,109,pavimento,semi plano,residencia,social
+28401,claudia valderrama cerro,6128929 pt.,casa,86,pavimento,pendiente,residencia,social
+28408,ruperta diéguez rosales,8586538 pt.,casa,79,pavimento,pendiente,comercio,economico
+28423,rafa giner bastida,,,,,,,
+28502,luciana josefina cstilla rebollo,6517493 pt.,casa,130,tierra,semi plano,,economico
+28501,teodosio crbó-cruz,,casa,,tierra,,,
+22501,rebec de grande,5591753 pt.,casa,75,tierra,pendiente,residencia,economico
+22503,anita del borja,85886175 pt.,casa,205,tierra,semi plano,residencia,economico
+22507,erasmo cándido vilar villar,,equipamiento,147,,,,
+22509,chita barco-aguilera,,,,,,,
+22510,maría teresa hernando-cepeda,6616287 pt.,casa,210,tierra,,residencia,economico
+22506,adora bastida uría,,lote,111,cemento,semi plano,residencia,economico
+22504,juan bautista jesús gibert alcázar,8640470 pt.,casa,128,tierra,semi plano,residencia,economico
+22505,yésic porcel peláez,,,,,,,
+22508,graciana guardiola melero,,casa,,,,,
+22512,ricrda alarcón barco,5578856 pt.,casa,231,tierra,pendiente,,economico
+22502,ariel guerrero torrent,6655440 pt.,casa,71,tierra,pendiente,residencia,economico
+28701,desiderio balaguer bartolomé,1419799 pt.,casa,76,pavimento,plano,residencia,social
+28604,roberto ribes-marco,,,,tierra,,,
+28605,marita pilar losa alonso,6655409 pt,casa,58,tierra,semi plano,residencia,economico
+28603,hugo martí,,,,tierra,,,
+22101,epifanio roldán bautista,,,,pavimento,,,
+22111,leocdio ramírez segarra,1419875 pt.,casa,116,cemento,pendiente,comercio,social
+22106,juliana del cno,,,,cemento,,,
+22107,maría dolores aguilar silva,1144512 pt.,casa,332,cemento,plano,residencia,social
+22110,fabricio barrera nuñez,,,,cemento,,,
+22102,nydia anguita,,,,,,,
+22103,nazaret del nieto,,,,,,,
+22104,piedad cmino manso,,casa,117,cemento,semi plano,residencia,economico
+22105,paulina del gonzalo,3649509 cah.,casa,90,cemento,plano,residencia,social
+22109,benito pi pedraza,,,,cemento,,,
+22112,plinio garcia,5578814 pt.,casa,33,cemento,semi plano,residencia,economico
+25205,dionisia cstañeda abad,1419875 pt.,casa,22,cemento,plano,residencia,economico
+29003,rosaura sans peñas,,,51,tierra,,residencia,
+29002,eliseo ródenas llabrés,3649504 cah.,lote,80,tierra,plano,,
+29001,mateo coll,,,,tierra,,,
+23801,regina blanc-rico,6583654 pt.,casa,109,tierra,pendiente,,economico
+24406,juan luis alba tejero,8640341 pt.,casa,51,tierra,plano,residencia,social
+24613,julián hernando peñas,1229189 pt.,casa,78,cemento,plano,residencia,economico
+26802,fabricio heredia acero,682878 or.,casa,113,cemento,plano,residencia,economico
+26801,cndelas mena llabrés,,,,,,,
+26809,salomón mas rico,,,,,,,
+26803,teófilo palacios-coronado,1045952 pt.,casa,,tierra,plano,,economico
+26804,jeremías de amor,8586213 pt.,casa,26,pavimento,pendiente,residencia,economico
+26805,trini quirós ferrero,1077181 pt.,lote,,,,,economico
+26807,benigno viña-cmacho,5578528 pt,casa,93,cemento,plano,residencia,economico
+26815,benigna berenguer palacio,,,,cemento,,,
+26816,amor blázquez pizarro,,casa,,cemento,,,
+26817,luisina flores olivé,,casa,,cemento,,,
+26818,ester llanos sanmartín,5578856 pt.,casa,24,cemento,plano,residencia,economico
+26819,leandro sancho gil,6657361 pt.,casa,127,pavimento,semi plano,residencia,economico
+26820,ciro cyetano tolosa miralles,,,,,,,
+26821,corona esclona alfonso,1077181 cah.,,,,,,
+26827,onofre cro guillen,1407531 pt.,,,,,,
+26822,prudencio río rodríguez,3704715 pt.,casa,78,,,,
+26823,eva renata domínguez gabaldón,,casa,224,tierra,semi plano,residencia,economico
+26828,aitor gallo gaya,5576480 pt.,,,,,,
+26825,samu galvez frutos,,,,,,,
+26831,modesta de corominas,1246516 pt.,casa,,,pendiente,residencia,social
+26832,eleuterio torres,8586898 pt.,casa,122,pavimento,plano,residencia,economico
+26833,daniela aragonés aparicio,,casa,139,pavimento,plano,residencia,economico
+26834,inmaculada céspedes,,,,,,,
+26824,marcelino núñez tolosa,4102636 cah,casa,55,pavimento,plano,residencia,economico
+26839,aarón cesar posada pintor,4092921 cah.,casa,36,,plano,residencia,economico
+26837,jordi meléndez cmps,1430902 pt.,casa,46,,plano,residencia,economico
+26838,godofredo piña-nadal,,,,,,,
+26808,heraclio franco vila,,casa,33,cemento,plano,,
+26840,macria vallejo folch,68286 or.,,,,,,
+26703,sabas lerma martín,,,,,,,
+26724,chita pazos revilla,5128856 pt.,casa,110,pavimento,plano,residencia,economico
+26705,victor puente,5573401 pt.,casa,733,tierra,plano,residencia,economico
+26722,domitila de galvez,6592365,,52,cemento,plano,,social
+26721,esperanza pareja puente,5517483 pt.,casa,67,pavimento,plano,residencia,economico
+26755,teresita pol esclona,1335185 cah.,casa,264,cemento,semi plano,residencia,social
+26720,ruth cifuentes sevilla,,casa,,cemento,plano,residencia,economico
+26733,ámbar sáenz agustí,,,44,,,,
+26725,rodrigo lastra arco,,,,,,,
+26734,ainara feijoo monreal,,,,,,,
+26708,luís bárcena navas,,,,,,,
+26731,jimena frías,4103925 cah.,casa,62,pavimento,semi plano,residencia,economico
+26704,inocencio bejarano mármol,,,,,,,
+26710,miriam pelayo salazar,,casa,113,pavimento,semi plano,residencia,economico
+26709,rodolfo méndez alonso,665517 pt.,casa,70,pavimento,semi plano,residencia,economico
+26706,celestino vidal,5576095 pt.,casa,,,pendiente,residencia,economico
+26714,jose miguel busquets mate,5520732 pt.,casa,99,pavimento,pendiente,residencia,economico
+26715,heliodoro luís-poza,,,,,,,
+26713,lorenza badía clvet,1106624 cah,casa,113,,pendiente,residencia,normal
+26712,zaira tamarit atienza,1106820 pt.,casa,115,,plano,residencia,normal
+26711,salomé sales-torres,,casa,115,empedrado,semi plano,residencia,normal
+26701,maría josé jessic bas hernandez,5517479 pt.,casa,107,empedrado,semi plano,residencia,normal
+26702,viviana constanza morante mateo,,casa,,empedrado,,,
+26716,cruz barroso-flor,,casa,73,,semi plano,residencia,normal
+26707,estefanía ángel,8586205 pt.,casa,48,pavimento,plano,residencia,normal
+26732,jose antonio frías-cmpos,8586482 pt.,casa,56,empedrado,plano,residencia,normal
+26718,francisco jose crranza,6585240 cah,casa,56,pavimento,pendiente,residencia,normal
+23301,cyetano palau niño,1419884 pt.,casa,63,pavimento,plano,residencia,normal
+23306,macria benito armengol,,casa,30,pavimento,plano,residencia,normal
+23303,rosalva tenorio crmona,10502941 pt,casa,115,empedrado,pendiente,residencia,normal
+21311,julián méndez barroso,,,,,,,
+21312,saturnina ribas jimenez,,casa,22,pavimento,pendiente,residencia,normal
+21301,jose antonio saturnino cstilla cstelló,5576137 pt,casa,69,pavimento,pendiente,residencia,normal
+21302,patricia pinilla-esparza,,casa,139,empedrado,pendiente,residencia,normal
+21303,pánfilo olmo-segura,,casa,,,,,
+21304,hilda mesa maldonado,5563651 pt,casa,155,empedrado,pendiente,residencia,normal
+21305,gerardo pellicer montserrat,,lote,267,,,,
+21306,león cuadrado perales,,casa,119,empedrado,pendiente,residencia,normal
+21307,julie niño pellicer,,casa,103,empedrado,pendiente,residencia,normal
+21309,lucila viñas delgado,5578870 pt,casa,103,empedrado,semi plano,residencia,normal
+21308,teófila solé-bosch,6613839 pt.,casa,101,empedrado,pendiente,residencia,normal
+28224,benigno montalbán-mascró,5578809 pt,casa,110,empedrado,pendiente,residencia,normal
+28225,xiomara cbrero suárez,,,,,,,
+28209,evita torrents aparicio,,,,,,,
+28212,régulo plaza jerez,8586296 pt,casa,,tierra,pendiente,residencia,normal
+28249,laura jaén álvarez,4106465 cah,casa,,tierra,pendiente,residencia,normal
+28214,agapito figueroa-pavón,,,,,,,
+28215,nilda ana bejarano bernad,1246516 pt.,casa,,,pendiente,residencia,social
+28231,onofre clvo-pascual,8586898 pt.,casa,122,pavimento,plano,residencia,normal
+28232,eric de briones,,casa,139,pavimento,plano,residencia,normal
+28233,morena gordillo-franco,,,,,,,
+28234,ramona riquelme cuenc,4102636 cah,casa,55,pavimento,plano,residencia,normal
+28235,jose manuel hernandez huerta,4092921 cah.,casa,36,,plano,residencia,normal
+28236,felipa abril vargas,1430902 pt.,casa,46,,plano,residencia,normal
+28238,macrena eufemia llanos herrera,,,,,,,
+28248,porfirio peinado garcía,,casa,33,cemento,plano,,
+28239,andrés del olivera,68286 or.,,,,,,
+28204,marisela girón exposito,,,,,,,
+27915,ruy íñigo olmedo domínguez,5128856 pt.,casa,110,pavimento,plano,residencia,normal
+27904,ibán barceló álamo,5573401 pt.,casa,733,tierra,plano,residencia,normal
+27906,samanta olmedo bayón,6592365,,52,cemento,plano,,social
+27922,ulises valero clemente,5517483 pt.,casa,67,pavimento,plano,residencia,normal
+27923,tiburcio ovidio jover cstelló,1335185 cah.,casa,264,cemento,semi plano,residencia,social
+27911,isa moll prats,,casa,,cemento,plano,residencia,economico
+27912,abilio feliciano crrillo lerma,,,44,,,,
+27913,ctalina guerra pavón,,,,,,,
+27909,ruth cno cnova,,,,,,,
+27908,anastasio iglesias flores,,,,,,,
+27910,abilio feliu gelabert,4103925 cah.,casa,62,pavimento,semi plano,residencia,economico
+27918,luis cervantes-pont,,,,,,,
+27917,teo sastre moya,,casa,113,pavimento,semi plano,residencia,economico
+27916,virginia puga prado,665517 pt.,casa,70,pavimento,semi plano,residencia,economico
+27901,inés cstrillo merino,5576095 pt.,casa,,,pendiente,residencia,economico
+27927,amarilis torrent trillo,5520732 pt.,casa,99,pavimento,pendiente,residencia,economico
+27914,marisa maría fernanda téllez barranco,,,,,,,
+27924,nayara adoración crnero somoza,1106624 cah,casa,113,,pendiente,residencia,economico
+27928,gaspar solano,1106820 pt.,casa,115,,plano,residencia,economico
+27905,mauricio cuervo lluch,,casa,115,empedrado,semi plano,residencia,economico
+27931,juan pablo cstro rius,5517479 pt.,casa,107,empedrado,semi plano,residencia,economico
+27930,gustavo oliva tamarit,,casa,,empedrado,,,
+24101,alex mayol aparicio,,casa,73,,semi plano,residencia,economico
+25809,maría belén arenas-solís,8586205 pt.,casa,48,pavimento,plano,residencia,economico
+25805,toño jenaro sainz martí,8586482 pt.,casa,56,empedrado,plano,residencia,economico
+25804,marc cnales monreal,6585240 cah,casa,56,pavimento,pendiente,residencia,economico
+25803,amada boada linares,1419884 pt.,casa,63,pavimento,plano,residencia,economico
+25812,piedad quesada mancebo,,casa,30,pavimento,plano,residencia,economico
+25810,andrés felipe gárate armas,10502941 pt,casa,115,empedrado,pendiente,residencia,economico
+25801,reyes andrés perales,,,,,,,
+25808,tito del arrieta,,casa,22,pavimento,pendiente,residencia,economico
+25802,gobierno autonomo municipal de samaipata,,equipamiento,69,pavimento,pendiente,,economico
+21207,anunciación adán arroyo,,casa,139,empedrado,pendiente,residencia,economico
+21206,feliciano del huguet,,casa,,,,,
+21208,soledad ros agustín,5563651 pt,casa,155,empedrado,pendiente,residencia,economico
+21205,octavia arnau rosales,,lote,267,,,,
+21204,pedro torrijos,,casa,119,empedrado,pendiente,residencia,economico
+21211,eloísa baró,,casa,103,empedrado,pendiente,residencia,economico
+25706,francisc de solano,5578870 pt,casa,103,empedrado,semi plano,residencia,economico
+25707,almudena barragán valentín,6613839 pt.,casa,101,empedrado,pendiente,residencia,economico
+25708,gilberto arenas zapata,5578809 pt,casa,110,empedrado,pendiente,residencia,economico
+25710,alonso martí,,,,,,,
+25714,godofredo marti bermudez,,,,,,,
+25711,elba taboada polo,8586296 pt,casa,,tierra,pendiente,residencia,economico
+25712,crmela de pulido,4106465 cah,casa,,tierra,pendiente,residencia,economico
+25702,balduino elorza morera,6613789 cah.,casa,152,tierra,pendiente,residencia,economico
+25704,humberto de escrivá,6655392 pt.,casa,105,tierra,pendiente,residencia,economico
+25709,merche arenas-pareja,,casa,,tierra,pendiente,,
+27214,wilfredo jacinto ballester feijoo,,casa,,tierra,pendiente,,
+27215,gisela berta benítez ballesteros,1058752 cah.,lote,99,tierra,pendiente,residencia,
+27205,sonia prudencia sola cuadrado,5578667 pt.,casa,235,tierra,pendiente,residencia,economico
+27202,esmeralda company,1419771 pt.,casa,129,cemento,pendiente,residencia,economico
+27213,perlita de moraleda,5578668 pt.,casa,78,cemento,semi plano,residencia,economico
+27217,benita elorza-leal,5578504 pt.,casa,200,cemento,semi plano,residencia,economico
+27218,tiburcio sebastian vigil poza,,casa,,cemento,pendiente,,
+27201,tadeo tomas aller,,casa,161,cemento,pendiente,residencia,economico
+27216,agustín moliner fernandez,5128913 pt.,casa,64,cemento,semi plano,residencia,social
+27203,ezequiel bayón-berrocl,,casa,245,cemento,semi plano,residencia,economico
+27204,martirio lourdes vaquero piña,1419685 pt.,casa,86,cemento,pendiente,residencia,economico
+27209,herminia lastra galiano,4092112 cah.,casa,128,cemento,pendiente,residencia,social
+27208,xiomara fuente vergara,10500069 pt.,casa,177,cemento,,comercio,economico
+27207,fabián perea gelabert,,casa,,cemento,,,
+27210,adán vilanova,8586555 pt.,casa,172,cemento,pendiente,residencia,social
+27212,beatriz acosta chico,1419309 pt.,casa,50,tierra,pendiente,residencia,social
+27211,clixto borrego,66133789 pt.,casa,321,tierra,pendiente,residencia,economico
+22801,cirino cueto-burgos,5188776 pt.,casa,170,tierra,pendiente,residencia,social
+25201,clixta mena matas,,casa,,cemento,plano,,
+25202,jesusa de cbrero,6655432 pt.,casa,208,cemento,pendiente,comercio,social
+25212,gonzalo villar pujol,5578962 pt.,casa,97,cemento,pendiente,residencia,economico
+25211,inocencio ovidio galiano moll,1419810 pt.,casa,155,cemento,pendiente,residencia,social
+25210,nayara leal,5576048 pt.,casa,147,cemento,pendiente,residencia,economico
+25207,tiburcio ramón salom,1229196 pt.,casa,1064,cemento,pendiente,residencia,social
+25206,griselda toledo-sala,1419691 pt.,casa,172,cemento,semi plano,residencia,economico
+25208,elba cndela galindo solís,1263519 pt.,casa,1025,cemento,pendiente,residencia,economico
+27001,amor escolano gargallo,,casa,501,cemento,pendiente,residencia,social
+27105,nacho cerdán-vilalta,,casa,410,tierra,pendiente,residencia,economico
+27204,rufino adrián reina gordillo,,lote,224,tierra,pendiente,,
+22204,anselma orozco-pujadas,,lote,345,tierra,pendiente,,
+22201,ciro valera ródenas,1246497 pt.,lote,345,tierra,plano,,
+22206,consuela bas solera,,casa,83,tierra,plano,residencia,social
+22210,oriana revilla perez,4108193 cah.,casa,58,cemento,pendiente,residencia,social
+22401,cndelas ríos,8586187 pt.,casa,548,cemento,plano,residencia,economico
+22402,leandra olivia leal maza,,casa,114,cemento,pendiente,comercio,economico
+22403,pastora arce coloma,,casa,173,cemento,pendiente,residencia,economico
+22410,damián palomares lledó,,casa,,cemento,plano,,
+22408,maristela ponce,,casa,47,cemento,plano,residencia,economico
+22405,melania chaves corbacho,1189225 pt.,casa,57,cemento,plano,comercio,economico
+22406,edelmira robledo-urrutia,1419218 pt.,casa,417,cemento,semi plano,residencia,social
+22409,clímaco teobaldo fuente cobos,8629619 pt.,casa,19,cemento,plano,residencia,economico
+22407,noa de córdoba,,casa,102,tierra,plano,,
+22404,leonel jara torrijos,1189225 pt.,casa,3199,tierra,semi plano,residencia,economico
+22414,estrella badía-amo,6616574 pt.,casa,48,tierra,pendiente,residencia,social
+22413,mayte bou cbezas,,,,,,,
+22412,ainoa haro,15578951 pt.,casa,429,tierra,semi plano,residencia,economico
+22415,julián del guitart,1419755 pt.,casa,142,tierra,semi plano,residencia,social
+22411,ricrda de mayoral,1419755 pt.,lote,1993,tierra,pendiente,,
+27301,salud llorens-crro,12834245 cah.,casa,19,tierra,pendiente,residencia,social
+28125,jacobo gomez hernández,6616318 pt.,casa,62,tierra,pendiente,residencia,economico
+24006,aurelia lozano,,,,,,,
+20404,angélic purificción vallejo huerta,6613943 pt.,casa,124,tierra,pendiente,residencia,social
+230,zoraida cuesta peiró,71172595 pt.,lote,2885,tierra,muy pendiente,,
+26002,gabino iglesias mínguez,,,,,,,
+261,leocdia galiano barroso,,,,,,,
+24507,felix sola,5578584 pt.,casa,62,cemento,plano,comercio,social
+235,ramón tomé pont,5128883 t.,casa,128,cemento,plano,comercio,social
+26401,gil martin,1013753 cah.,casa,115,cemento,plano,comercio,social
+24323,lucs sáenz uriarte,1419446 pt.,casa,84,cemento,plano,residencia,economico
+25411,sancho llabrés gallo,5517481 pt.,casa,30,cemento,plano,residencia,social
+23701,jose manuel juárez moreno,1419575 pt.,casa,205,cemento,plano,comercio,social
+23706,micela de fuentes,,casa,79,tierra,plano,residencia,social
+23707,aurelio león cmpoy,5563379 pt.,lote,120,tierra,plano,,
+23708,noé de borrego,5001-140166 u,casa,89,tierra,semi plano,residencia,social
+23709,gastón méndez,,casa,179,tierra,semi plano,residencia,economico
+23710,sara del lastra,1419605 pt.,casa,119,tierra,semi plano,residencia,economico
+23703,amarilis acedo rosales,,lote,100,tierra,semi plano,,
+237,ale cerezo,,lote,,tierra,semi plano,,
+23712,ruy del seguí,,casa,,,,,
+25530,olalla avilés nieto,3111740 or,casa,20,pavimento,plano,residencia,economico
+27507,juanita del falcón,8586553 pt,casa,35,,plano,residencia,
+27509,antonio herberto crrera zapata,,,,,,,
+21112,pedro armengol múgic,,,,,,,
+21103,eulalia águila,1419269 pt.,casa,89,tierra,muy pendiente,comercio,economico
+211,pepita vendrell rosado,8649860 pt,casa,167,tierra,plano,residencia,economico
+21105,lorenza jódar gascón,,casa,,tierra,,,
+26504,juana mínguez-bertrán,,iglesia,279,pavimento,plano,,economico
+26505,reina emiliana acero arellano,,casa,,,,residencia,
+26509,natalio de aroc,,casa,,,,,
+27022,magdalena del peñas,8586285 pt,casa,85,tierra,plano,residencia,economico
+28511,débora arroyo pastor,2777574 or,casa,103,tierra,muy pendiente,residencia,economico
+22511,josé mari esteban torres,6655394 pt,casa,48,tierra,semi plano,residencia,economico
+22108,roberta nicolás,,casa,,,,,
+24402,amada conde rosselló,,,,,,,
+24403,celso de somoza,,,,,,,
+24405,virgilio rios moreno,1419592 pt,casa,107,tierra,semi plano,residencia,economico
+24404,cruz donoso román,682901 or,,580,,semi plano,residencia,economico
+24408,édgar bautista hervia,,,,,,,
+24414,natividad aguirre gual,6583563 pt,casa,180,tierra,plano,residencia,economico
+24419,maximino isern alonso,,,29,,,,
+24407,crina pacheco roma,,casa,,pavimento,,,
+24410,ovidio de cbanillas,,casa,,pavimento,,,
+24411,santos alemán garmendia,,casa,,pavimento,,,
+24412,victor manuel anguita cbrero,6616125 pt.,casa,161,pavimento,pendiente,residencia,economico
+24413,gerónimo escrivá riba,,,,tierra,plano,,
+24415,clisto enríquez galván,,,,tierra,plano,,
+24416,gracia de sarabia,,,,tierra,plano,,
+24417,hernán duque,6616241 pt,casa,154,empedrado,pendiente,residencia,economico
+24418,marina iniesta franch,,casa,90,empedrado,semi plano,residencia,economico
+24430,isidro múgic marquez,6587336 pt.,casa,98,pavimento,pendiente,residencia,economico
+24422,ricrda aparicio prieto,6658114,casa,57,empedrado,pendiente,residencia,economico
+24429,lope cnova aragonés,3707731 pt.,casa,102,empedrado,pendiente,residencia,economico
+24423,bartolomé dan lago corbacho,3707756 pt,casa,159,empedrado,semi plano,residencia,social
+24428,socorro cordero salas,,casa,82,empedrado,pendiente,residencia,economico
+24424,dionisia peinado,,casa,168,empedrado,pendiente,residencia,economico
+24427,íngrid garmendia-niño,8570347 pt,casa,127,empedrado,plano,residencia,social
+24425,celso crranza lillo,8570347 pt.,casa,37,empedrado,plano,residencia,social
+24426,jose manuel parra vara,6586715 pt,casa,198,tierra,plano,residencia,social
+24409,noemí nogués crrillo,,casa,322,,pendiente,residencia,social
+24421,lupe guerra-huguet,7338715 or.,casa,204,,semi plano,residencia,economico
+24420,julián llorente sainz,,casa,37,tierra,plano,residencia,social
+24606,dionisia de amaya,,iglesia,594,,,,
+24601,lalo bolaños rios,6592101 pt,casa,129,tierra,semi plano,residencia,social
+24612,otilia manso,,,,,,,
+24607,genoveva tello,,,,,,,
+24608,augusto toro santamaria,,casa,160,pavimento,semi plano,residencia,economico
+24609,chuy josé maría rosales márquez,,casa,43,tierra,pendiente,residencia,economico
+24610,hermenegildo barranco iriarte,8586277 pt,casa,45,tierra,pendiente,residencia,economico
+24611,lucila losada,,casa,104,tierra,pendiente,residencia,economico
+24605,galo alonso bermejo,,casa,26,,,residencia,social
+24604,leticia del toro,,casa,,pavimento,pendiente,residencia,social
+24603,fernando alemán-alclá,,casa,45,pavimento,pendiente,residencia,social
+24602,adriana llanos posada,,casa,45,pavimento,pendiente,residencia,social
+26810,chita valentina lopez ibáñez,5128940 pt,casa,45,,pendiente,residencia,normal
+26836,nicolás roldán higueras,3712690 pt,casa,109,pavimento,pendiente,residencia,normal
+26835,iris quevedo piquer,682964 cah,casa,79,pavimento,plano,residencia,normal
+26717,lino clavero diez,,,,pavimento,plano,,
+23305,nicnor pla mora,,casa,,,plano,residencia,social
+23302,celestino adadia serna,,casa,,empedrado,pendiente,residencia,social
+23304,ascensión borrego perea,,casa,,empedrado,plano,residencia,social
+290011,sonia macias palomares,,casa,,empedrado,plano,,normal
+28211,gil durán álvarez,,casa,244,empedrado,pendiente,residencia,normal
+28216,marisol cuesta aguilar,,casa,,empedrado,semi plano,residencia,
+28218,tamara echeverría cstelló,,casa,,empedrado,pendiente,residencia,social
+28228,cándida del suárez,,,,empedrado,semi plano,,
+28229,arcelia de palacio,,,,empedrado,semi plano,,
+28230,paola del jaume,5550716 pt,casa,,empedrado,pendiente,residencia,social
+28240,maricruz barceló rebollo,,,,empedrado,pendiente,,
+28241,reyes zabaleta haro,5128940 pt.,,,empedrado,pendiente,residencia,
+28242,leopoldo mateu-villalba,536747 pt,casa,,empedrado,muy pendiente,residencia,
+28243,ildefonso sola jordán,,,,,,,normal
+28244,esteban galan buendía,,casa,,empedrado,pendiente,residencia,normal
+28245,rosaura conesa pons,,casa,,cemento,semi plano,residencia,social
+28246,pac sanmartín-cs,6616079,casa,95,cemento,semi plano,residencia,normal
+28247,aroa czorla-villar,1407534 pt,casa,95,cemento,semi plano,residencia,normal
+28222,maxi morán sureda,10575955 pt,casa,61,cemento,semi plano,residencia,normal
+28223,horacio del duran,4119350 cah,casa,152,cemento,pendiente,residencia,normal
+28260,renata nicolau peñas,5576388 pt,casa,70,cemento,,residencia,normal
+28220,rodolfo hervia tolosa,,casa,30,cemento,semi plano,residencia,normal
+28251,jesusa coll prats,,,,,,,
+28207,ignacia osuna bárcena,,casa,,cemento,pendiente,residencia,normal
+28205,custodio gargallo-ramis,,casa,,cemento,semi plano,residencia,normal
+28250,josé mari planas-ávila,6613884 pt.,casa,,cemento,pendiente,residencia,normal
+28203,francisco jose mendez,6612000 pt.,casa,,cemento,pendiente,residencia,social
+28227,francisco aznar becerra,,casa,,cemento,pendiente,,
+28226,nydia ríos-huguet,,casa,,cemento,semi plano,residencia,normal
+27950,benito garcés landa,1388546 pt.,casa,,cemento,semi plano,residencia,social
+21210,osvaldo andrade cntón,,casa,14,cemento,plano,,normal
+21209,anselmo de cres,4118625 cah.,casa,,cemento,plano,residencia,bueno
+25715,maría josé madrid cmpillo,,casa,344,cemento,semi plano,,bueno
+25713,clímaco águila sosa,,casa,,tierra,semi plano,residencia,normal
+25701,elías pujol otero,6608680 pt.,casa,,tierra,pendiente,residencia,normal
+25703,olegario del mateos,1419446 pt.,casa,,tierra,semi plano,residencia,normal
+25719,trinidad aramburu,682964 or.,casa,130,,pendiente,residencia,normal
+25203,luisa arellano-gutiérrez,5578613 pt.,casa,226,tierra,pendiente,residencia,normal
+25209,palmira gallego rodríguez,1419307 pt.,casa,,cemento,pendiente,residencia,normal
+22202,ciriaco cristóbal mayol quintero,5517520 pt.,casa,189,tierra,semi plano,residencia,normal
+22205,anselmo ballesteros rovira,6583626 pt.,casa,74,tierra,plano,residencia,normal
+22203,tatiana del aguado,3712690,casa,168,tierra,pendiente,residencia,normal
+22207,abilio botella-sierra,3502465,casa,,tierra,pendiente,residencia,normal
+22211,eulalia salomé baena uribe,,casa,,tierra,semi plano,residencia,normal
+24930,adelina clzada gárate,1419823 pt.,casa,,tierra,plano,residencia,normal
+24926,corona palacio valle,,casa,,tierra,pendiente,residencia,economico
+24901,ismael peiró-gámez,5646020 cah.,casa,85,tierra,pendiente,residencia,economico
+24921,elvira godoy santana,3668071 pt.,casa,68,pavimento,semi plano,residencia,
+24919,alfredo piñeiro malo,5576400 pt.,casa,89,tierra,plano,residencia,economico
+24916,juan bautista ros quesada,8558622 pt.,casa,83,tierra,plano,residencia,economico
+24912,román del anglada,6698553 pt.,casa,93,tierra,pendiente,residencia,economico
+24927,pascuala coronado,,casa,344,cemento,semi plano,,bueno
+24924,leire paniagua acevedo,1419471 pt.,casa,,tierra,pendiente,,
+24925,sofía jiménez soriano,,casa,,tierra,,residencia,economico
+24922,hector izaguirre donoso,,casa,128,tierra,pendiente,,
+24923,rocío salgado palomo,5128991 pt.,casa,160,tierra,plano,residencia,economico
+24920,lucho reguera heredia,1189225 pt.,casa,57,cemento,plano,comercio,economico
+24918,viviana bello alberdi,1419218 pt.,casa,417,cemento,semi plano,residencia,social
+24915,esmeralda simó,8629619 pt.,casa,19,cemento,plano,residencia,economico
+24917,alexandra del nieto,,casa,102,tierra,plano,,
+24913,francisc maría rosado serna,1189225 pt.,casa,3199,tierra,semi plano,residencia,economico
+24914,artemio martinez-baeza,6616574 pt.,casa,48,tierra,pendiente,residencia,social
+24928,vicenta grau naranjo,,,,,,,
+24929,cintia corbacho luz,15578951 pt.,casa,429,tierra,semi plano,residencia,economico
+27019,josé manuel plaza izaguirre,1419755 pt.,casa,142,tierra,semi plano,residencia,social
+23702,augusto del corominas,1419755 pt.,lote,1993,tierra,pendiente,,
+23705,néstor milla,12834245 cah.,casa,19,tierra,pendiente,residencia,social
+28208,guadalupe de peralta,6616318 pt.,casa,62,tierra,pendiente,residencia,economico
+25718,abraham espejo,,,,,,,
+25721,nidia mate benito,6613943 pt.,casa,124,tierra,pendiente,residencia,social
+25717,reyes córdoba folch,71172595 pt.,lote,2885,tierra,muy pendiente,,
+25716,abraham torrijos seco,,,,,,,
+28512,sabina baró ariza,,,,,,,
+24911,amado sarmiento diez,5578584 pt.,casa,62,cemento,plano,comercio,social
+27506,jose ramón juan antonio macias pinedo,5128883 t.,casa,128,cemento,plano,comercio,social
+27020,lupe mas-cárdenas,1013753 cah.,casa,115,cemento,plano,comercio,social
+27021,darío costa esteban,1419446 pt.,casa,84,cemento,plano,residencia,economico
+24005,elisabet díaz macías,5517481 pt.,casa,30,cemento,plano,residencia,social
+27516,xiomara jove tolosa,1419575 pt.,casa,205,cemento,plano,comercio,social
+29825,pascual del escudero,,casa,79,tierra,plano,residencia,social
+20627,vasco grau acevedo,5563379 pt.,lote,120,tierra,plano,,
+20626,cristian verdugo crro,5001-140166 u,casa,89,tierra,semi plano,residencia,social
+29829,emilio zamorano arce,,casa,179,tierra,semi plano,residencia,economico
+20629,lucho ramón romeu sabater,1419605 pt.,casa,119,tierra,semi plano,residencia,economico
+29828,ambrosio gabriel aranda solís,,lote,100,tierra,semi plano,,
+20628,nilda amaya guitart,,lote,,tierra,semi plano,,
+29831,clemente barberá-cuesta,,casa,,,,,
+20631,chuy gutiérrez batlle,3111740 or,casa,20,pavimento,plano,residencia,economico
+29834,martirio manso-guzman,8586553 pt,casa,35,,plano,residencia,
+20634,moisés segarra,,,,,,,
+29832,lucs lara-losa,,,,,,,
+20632,amanda ferrándiz viana,1419269 pt.,casa,89,tierra,muy pendiente,comercio,economico
+20805,tito doménech,8649860 pt,casa,167,tierra,plano,residencia,economico
+20812,sebastian de cmps,,casa,,tierra,,,
+20813,encrnita gilabert nebot,,iglesia,279,pavimento,plano,,economico
+29602,javiera del aparicio,,casa,,,,residencia,
+20802,plácido cmino clvet,,casa,,,,,
+29603,beatriz ruperta borrás julián,8586285 pt,casa,85,tierra,plano,residencia,economico
+20803,chucho ortega varela,2777574 or,casa,103,tierra,muy pendiente,residencia,economico
+20806,purificción del gual,6655394 pt,casa,48,tierra,semi plano,residencia,economico
+20807,dionisio guerrero cstro,,casa,,,,,
+20808,francisc solsona olmedo,,,,,,,
+20808,odalis santamaria-cueto,,,,,,,
+20811,leopoldo del mulet,1419592 pt,casa,107,tierra,semi plano,residencia,economico
+29610,ema requena villalonga,682901 or,,580,,semi plano,residencia,economico
+20810,teodosio benet samper,,,,,,,
+29609,gabriel oliver peñalver,6583563 pt,casa,180,tierra,plano,residencia,economico
+20809,felicia sonia sotelo sánchez,,,29,,,,
